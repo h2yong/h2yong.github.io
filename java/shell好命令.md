@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-04 11:20:20
- * @LastEditTime: 2020-05-19 16:42:22
+ * @LastEditTime: 2020-10-16 15:25:48
  * @LastEditors: Please set LastEditors
  * @Description: shell好命令
  -->
@@ -22,25 +22,26 @@ comm -12 a.txt b.txt
 netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
 ```
 
-返回结果如下：
-　　 LAST_ACK 5
-　　 SYN_RECV 30
-　　 ESTABLISHED 1597
-　　 FIN_WAIT1 51
-　　 FIN_WAIT2 504
-　　 TIME_WAIT 1057
-tcp 连接状态：
-CLOSED：无连接是活动的或正在进行
-　　 LISTEN：服务器在等待进入呼叫
-　　 SYN_RECV：一个连接请求已经到达，等待确认
-　　 SYN_SENT：应用已经开始，打开一个连接
-　　 ESTABLISHED：正常数据传输状态
-　　 FIN_WAIT1：应用说它已经完成
-　　 FIN_WAIT2：另一边已同意释放
-　　 ITMED_WAIT：等待所有分组死掉
-　　 CLOSING：两边同时尝试关闭
-　　 TIME_WAIT：另一边已初始化一个释放
-　　 LAST_ACK：等待所有分组死掉
+返回结果如下：  
+　　 LAST_ACK 5  
+　　 SYN_RECV 30  
+　　 ESTABLISHED 1597  
+　　 FIN_WAIT1 51  
+　　 FIN_WAIT2 504  
+　　 TIME_WAIT 1057  
+
+tcp 连接状态：  
+     CLOSED：无连接是活动的或正在进行  
+　　 LISTEN：服务器在等待进入呼叫  
+　　 SYN_RECV：一个连接请求已经到达，等待确认  
+　　 SYN_SENT：应用已经开始，打开一个连接  
+　　 ESTABLISHED：正常数据传输状态  
+　　 FIN_WAIT1：应用说它已经完成  
+　　 FIN_WAIT2：另一边已同意释放  
+　　 ITMED_WAIT：等待所有分组死掉  
+　　 CLOSING：两边同时尝试关闭  
+　　 TIME_WAIT：另一边已初始化一个释放  
+　　 LAST_ACK：等待所有分组死掉  
 
 ## 根据端口号杀死进程
 
