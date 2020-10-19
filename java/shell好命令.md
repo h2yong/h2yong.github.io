@@ -138,4 +138,4 @@ mysqld  126421 mysql  153u  IPv6 469837031      0t0  TCP 10.22.0.88:mysql->10.31
 
 # linux 命令大全
 
-[man.linuxde.net]<https://man.linuxde.net/par/3>
+[man.linuxde.net](https://man.linuxde.net/par/3)
