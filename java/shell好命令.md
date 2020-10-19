@@ -61,6 +61,14 @@ find ~ -type f -size +500M
 awk -F',' 'BEGIN{sum=0}{sum+=$2}END{print sum}' xx.txt
 ```
 
+## 同时匹配多个字符
+
+```sh
+sed -n '/kobe/{/james/p}'
+awk '/kobe/&&/james/{ print $0 }'
+grep -E '(kobe.*james|james.*kobe)'    egrep  '(kobe.*james|james.*kobe)'
+```
+
 ## 批量修改文件名
 
 ```sh
