@@ -136,6 +136,26 @@ mysqld  126421 mysql   81u  IPv6 469836899      0t0  TCP 10.22.0.88:mysql->10.31
 mysqld  126421 mysql  153u  IPv6 469837031      0t0  TCP 10.22.0.88:mysql->10.31.3.166:64582 (ESTABLISHED)
 ```
 
+## 查看占用空间较多的文件或目录
+
+```sh
+$ du -s /home/h2yong/logs/* | sort -n 
+4	/home/h2yong/logs/app/olc
+12	/home/h2yong/logs/tomcat
+282140	/home/h2yong/easyconf
+3122952	/home/h2yong/logs/app/run
+15344724	/opt/huawei/logs/app/error
+
+# 下面会多一行汇总
+$ du -d 1 /home/h2yong/logs/* | sort -n 
+4	/home/h2yong/logs/app/olc
+12	/home/h2yong/logs/tomcat
+282140	/home/h2yong/easyconf
+3122952	/home/h2yong/logs/app/run
+15344724	/opt/huawei/logs/app/error
+18467696	/opt/huawei/logs
+```
+
 # linux 命令大全
 
 [man.linuxde.net](https://man.linuxde.net/par/3)
