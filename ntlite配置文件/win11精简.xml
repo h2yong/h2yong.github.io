@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>03/04/2023 09:46:33</Date>
+	<AppInfo>
+		<Version>2023.3.9160</Version>
+		<Licensed>No</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 10 Pro (19H2) x64 - 10.0.18363.720 (zh-CN)</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 11 Professional (22H2) x64 - 10.0.22621.1265 (zh-CN)</Version>
+		<GUID>{5CA46AB3-D972-4364-8C29-93CD7A2DD6BC}</GUID>
+	</ImageInfo>
+	<RemoveComponents AppRemovalMode="DISM">
+		<c>1527c705-839a-4832-9118-54d4Bd6a0c89 'File Picker'</c>
+		<c>adamclient 'Active Directory 轻型目录服务 (AD LDS)'</c>
+		<c>branchcacheclient 'BranchCache Client(分支缓存客户端)'</c>
+		<c>c5e2524a-ea46-4f67-841f-6a9465d9d515 '文件资源管理器'</c>
+		<c>E2A4F912-2574-4A75-9BB0-0D023378592B '应用解析程序'</c>
+		<c>easeofaccessthemes '轻松访问主题'</c>
+		<c>embeddedexperience '设备锁定 (Embedded Experience-嵌入式体验)'</c>
+		<c>F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE '“添加文件夹建议”对话框'</c>
+		<c>fciclient '文件服务器资源管理器(File Server Resource Manager)'</c>
+		<c>hwsupport_scanner '扫描仪'</c>
+		<c>hwsupport_wia 'Windows 图像采集 (WIA)'</c>
+		<c>ias 'Internet Authentication Service (互联网身份验证服务) (IAS)'</c>
+		<c>iis 'Internet Information Server (IIS)(Internet 信息服务)'</c>
+		<c>internetexplorer32 'Internet Explorer - 32-位'</c>
+		<c>kerneldebug '内核调试'</c>
+		<c>la57 '57-bit Linear Addressing'</c>
+		<c>langarabic '阿拉伯语'</c>
+		<c>langbasque '巴斯克语'</c>
+		<c>langbulgarian '保加利亚语'</c>
+		<c>langcatalan '加泰罗尼亚语'</c>
+		<c>langcroatian '克罗地亚语'</c>
+		<c>langczech '捷克语'</c>
+		<c>langdanish '丹麦语'</c>
+		<c>langdutch '荷兰语'</c>
+		<c>langenglishgb '英语 (GB)'</c>
+		<c>langenglishus '英语 (US)'</c>
+		<c>langestonian '爱沙尼亚语'</c>
+		<c>langfinnish '芬兰语'</c>
+		<c>langfrench '法语'</c>
+		<c>langfrenchcanadian '法语(加拿大)'</c>
+		<c>langgalician '加利西亚语'</c>
+		<c>langgerman '德语'</c>
+		<c>langgreek '希腊语'</c>
+		<c>langhebrew '希伯来语'</c>
+		<c>langhungarian '匈牙利语'</c>
+		<c>langimejp '日语 (IME)'</c>
+		<c>langimeko '韩语 (IME)'</c>
+		<c>langindonesian '印度尼西亚语'</c>
+		<c>langitalian '意大利语'</c>
+		<c>langjapanese '日语'</c>
+		<c>langkorean '韩语'</c>
+		<c>langlatvian '拉脱维亚语'</c>
+		<c>langlithuanian '立陶宛语'</c>
+		<c>langnorwegian '挪威语'</c>
+		<c>langpolish '波兰语'</c>
+		<c>langportuguesebr '葡萄牙语(巴西)'</c>
+		<c>langportuguesept '葡萄牙语'</c>
+		<c>langromanian '罗马尼亚语'</c>
+		<c>langrussian '俄语'</c>
+		<c>langserbian '塞尔维亚语'</c>
+		<c>langslovak '斯洛伐克语'</c>
+		<c>langslovenian '斯洛文尼亚语'</c>
+		<c>langspanish '西班牙语'</c>
+		<c>langswedish '瑞典语'</c>
+		<c>langthai '泰语'</c>
+		<c>langturkish '土耳其语'</c>
+		<c>langukrainian '乌克兰语'</c>
+		<c>langvietnamese '越南语'</c>
+		<c>mediacodec 'Windows 多媒体编码器'</c>
+		<c>mediacodec32 'Windows 多媒体编码器 - 32-位'</c>
+		<c>mediafoundation32 '媒体功能 - 32-位'</c>
+		<c>mediaplayer 'Windows Media Player'</c>
+		<c>mediaplayer32 'Windows Media Player - 32-位'</c>
+		<c>mediaplayernetworksharing 'WMP Network Sharing Service(WMP 网络共享服务)'</c>
+		<c>mediaplayernetworksharing32 'WMP Network Sharing Service(WMP 网络共享服务) - 32-位'</c>
+		<c>Microsoft.AsyncTextService 'AsyncTextService'</c>
+		<c>Microsoft.BioEnrollment 'Windows Hello 设置'</c>
+		<c>Microsoft.CredDialogHost '凭据对话框'</c>
+		<c>Microsoft.GamingApp 'Xbox 应用'</c>
+		<c>Microsoft.HEIFImageExtension 'HEIF Image Extensions'</c>
+		<c>Microsoft.HEVCVideoExtension '来自设备制造商的 HEVC 视频扩展'</c>
+		<c>Microsoft.LockApp 'Windows 默认锁屏界面'</c>
+		<c>Microsoft.MicrosoftSolitaireCollection 'Microsoft Solitaire Collection'</c>
+		<c>Microsoft.PowerAutomateDesktop 'Power Automate'</c>
+		<c>Microsoft.RawImageExtension 'Raw Image Extension'</c>
+		<c>Microsoft.ScreenSketch 'Snipping Tool'</c>
+		<c>Microsoft.StorePurchaseApp 'Store Experience Host'</c>
+		<c>Microsoft.VP9VideoExtensions 'VP9 Video Extensions'</c>
+		<c>Microsoft.WebMediaExtensions 'Web Media Extensions'</c>
+		<c>Microsoft.WebpImageExtension 'Webp 图像扩展'</c>
+		<c>Microsoft.Win32WebViewHost '桌面应用 Web 查看器'</c>
+		<c>Microsoft.Windows.AssignedAccessLockApp '“指定访问锁定”应用'</c>
+		<c>Microsoft.Windows.CallingShellApp '通话'</c>
+		<c>Microsoft.Windows.CapturePicker '截图选择器'</c>
+		<c>Microsoft.Windows.NarratorQuickStart '讲述人'</c>
+		<c>Microsoft.Windows.ParentalControls 'Microsoft 家庭功能'</c>
+		<c>Microsoft.Windows.PinningConfirmationDialog 'PinningConfirmationDialog'</c>
+		<c>Microsoft.Windows.SecureAssessmentBrowser '参加测验'</c>
+		<c>Microsoft.Windows.XGpuEjectDialog '安全删除设备'</c>
+		<c>Microsoft.WindowsCamera 'Windows Camera'</c>
+		<c>Microsoft.WindowsSoundRecorder 'Windows Voice Recorder'</c>
+		<c>Microsoft.WindowsTerminal 'Windows 终端'</c>
+		<c>Microsoft.Xbox.TCUI 'Xbox TCUI'</c>
+		<c>Microsoft.XboxGameCallableUI 'Xbox Game UI'</c>
+		<c>Microsoft.XboxGameOverlay 'Xbox Game Bar Plugin'</c>
+		<c>Microsoft.XboxGamingOverlay 'Xbox Game Bar'</c>
+		<c>Microsoft.XboxSpeechToTextOverlay 'Xbox Game Speech Window'</c>
+		<c>Microsoft.ZuneVideo 'Movies &amp; TV'</c>
+		<c>mobilepc 'Mobile PC(移动 PC)'</c>
+		<c>mobilepc_location '位置通知'</c>
+		<c>mobilepc_networkprojection '网络投影仪'</c>
+		<c>mobilepc_sensors '传感器'</c>
+		<c>msmq 'Microsoft 消息队列 (MSMQ)'</c>
+		<c>multipointconnector 'MultiPoint Connector'</c>
+		<c>NcsiUwpApp '网络连接状态指示器 (NCSI)'</c>
+		<c>otherthemes 'Windows 个性化主题'</c>
+		<c>photoviewer '图片查看器(Photo Viewer)'</c>
+		<c>photoviewer32 '图片查看器(Photo Viewer) - 32-位'</c>
+		<c>powershell32 'PowerShell - 32-位'</c>
+		<c>powershellise32 'PowerShell ISE - 32-位'</c>
+		<c>printtopdf '打印为 PDF(Print to PDF)'</c>
+		<c>rdc '远程差分压缩 (RDC)'</c>
+		<c>rdpclient32 '远程桌面客户端 - 32-位'</c>
+		<c>remoteaccessservice 'Routing and Remote Access Service(路由和远程访问服务)'</c>
+		<c>remoteactivex32 '远程桌面服务 ActiveX 客户端 - 32-位'</c>
+		<c>remoteassistance '远程协助'</c>
+		<c>rotationmanager '自动旋转管理器'</c>
+		<c>securestartup 'BitLocker 磁盘加密'</c>
+		<c>sharemediacpl 'Share Media Control Panel(共享媒体控制面板)'</c>
+		<c>simpletcp '简单 TCP/IP 服务'</c>
+		<c>stici 'Still Image Class Installer(静止图像类安装器)'</c>
+		<c>tabletpc 'Tablet PC(平板电脑)'</c>
+		<c>telnetclient 'Telnet 客户端'</c>
+		<c>textprediction 'Text prediction(文本预测)'</c>
+		<c>tftpclient 'TFTP 客户端'</c>
+		<c>wallpapers '墙纸 (主题)'</c>
+		<c>webcamexperience 'Webcam Experience(网络摄像头体验)'</c>
+		<c>Windows.CBSPreview 'Windows 条形码预览'</c>
+		<c>winocr 'Windows TIFF IFilter(光学字符识别 OCR )'</c>
+		<c>xbox 'Xbox - 核心'</c>
+	</RemoveComponents>
+	<Compatibility protectHidden="false">
+		<ComponentFeatures>
+			<Feature enabled="no">OOBE</Feature>
+			<Feature enabled="no">AppGuard</Feature>
+			<Feature enabled="no">CapFrameX</Feature>
+			<Feature enabled="no">Discord</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="no">iCloud</Feature>
+			<Feature enabled="no">OfficeSupport</Feature>
+			<Feature enabled="yes">AppxSupport</Feature>
+			<Feature enabled="no">Netflix</Feature>
+			<Feature enabled="no">NightLight</Feature>
+			<Feature enabled="no">NvidiaSetup</Feature>
+			<Feature enabled="no">SamsungSwitch</Feature>
+			<Feature enabled="no">ShellSearchSupport</Feature>
+			<Feature enabled="no">Spotify</Feature>
+			<Feature enabled="no">TeamViewer</Feature>
+			<Feature enabled="no">USBModem</Feature>
+			<Feature enabled="no">USB</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="no">VPN</Feature>
+			<Feature enabled="yes">WindowsStore</Feature>
+			<Feature enabled="yes">WindowsUpdate</Feature>
+			<Feature enabled="yes">ActivationKMS</Feature>
+			<Feature enabled="yes">Activation</Feature>
+			<Feature enabled="no">YubiKey</Feature>
+			<Feature enabled="no">WLAN</Feature>
+			<Feature enabled="no">VSS</Feature>
+			<Feature enabled="no">ManualSetup</Feature>
+			<Feature enabled="yes">Printing</Feature>
+			<Feature enabled="no">Scanning</Feature>
+			<Feature enabled="no">Recommended-All</Feature>
+			<Feature enabled="no">FileSharing</Feature>
+			<Feature enabled="yes">ServicingStack</Feature>
+			<Feature enabled="no">DefaultFonts</Feature>
+			<Feature enabled="yes">SFC</Feature>
+			<Feature enabled="no">NetworkDiscovery</Feature>
+			<Feature enabled="yes">Bluetooth</Feature>
+			<Feature enabled="no">VideoPlayback</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="no">Hyper-V VM</Machine>
+			<Machine enabled="no">Parallels VM</Machine>
+			<Machine enabled="no">Virtual Box VM</Machine>
+			<Machine enabled="no">VMware VM</Machine>
+			<Machine enabled="no">HostMachine</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features></Features>
+	<Packages></Packages>
+	<Commands>
+		<PostUpdates>
+			<!--<Command>cmd /c echo Example from [MOUNTDIR]\Windows &amp; pause</Command>-->
+			<!--<Command>dism /image:[MOUNTDIR] /get-intl</Command>-->
+		</PostUpdates>
+	</Commands>
+	<Drivers showHidden="false"></Drivers>
+	<Unattended mode="0">
+		<OEMSetupComplete>false</OEMSetupComplete>
+		<AnswerFileLocationPanther>true</AnswerFileLocationPanther>
+		<AnswerFileLocationBoot>false</AnswerFileLocationBoot>
+		<SaveBothArch>false</SaveBothArch>
+		<EditionPrompt>false</EditionPrompt>
+		<settings pass="windowsPE">
+			<component name="Microsoft-Windows-Setup">
+				<DynamicUpdate>
+					<WillShowUI>OnError</WillShowUI>
+				</DynamicUpdate>
+				<ImageInstall>
+					<OSImage>
+						<WillShowUI>OnError</WillShowUI>
+						<InstallFrom>
+							<MetaData>
+								<Key>/IMAGE/INDEX</Key>
+								<Value>1</Value>
+							</MetaData>
+						</InstallFrom>
+					</OSImage>
+				</ImageInstall>
+				<UserData>
+					<ProductKey>
+						<Key></Key>
+					</ProductKey>
+				</UserData>
+			</component>
+		</settings>
+	</Unattended>
+	<Tweaks>
+		<Settings></Settings>
+		<Services></Services>
+		<ExtraServices></ExtraServices>
+		<ScheduledTasks></ScheduledTasks>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveRebuild</Task>
+			<Task>imageFormatWim</Task>
+		</ImageTasks>
+		<AutoIsoFile>NTLite.iso</AutoIsoFile>
+		<AutoIsoLabel>NTLite</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
+		<OptimizeAppX>false</OptimizeAppX>
+		<ReuseDriverCache>false</ReuseDriverCache>
+	</ApplyOptions>
+	<Execution>
+		<Remove></Remove>
+		<Change></Change>
+		<Add></Add>
+	</Execution>
+	<Registry></Registry>
+</Preset>

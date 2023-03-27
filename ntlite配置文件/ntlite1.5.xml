@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>02/23/2023 11:34</Date>
+	<AppInfo>
+		<Version>1.5.0.5855</Version>
+		<Licensed>Yes</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 10 Pro 64-位 - Client 10.0.19041.1 (zh-CN) - zh-CN</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 10 Enterprise 64-位 - Client 10.0.19041.2364 (zh-CN)</Version>
+		<GUID>{44E20955-8345-4011-B940-B58A3598CD1A}</GUID>
+	</ImageInfo>
+	<RemoveComponents>
+		<c>3daudio '空间音效 (3D Audio)'</c>
+		<c>accessibility '轻松访问工具'</c>
+		<c>activedirectory '活动目录'</c>
+		<c>alljoyn 'AllJoyn Router Service'</c>
+		<c>asimov 'Unified Telemetry Client (Asimov)（遥测）'</c>
+		<c>assignedaccess 'Assigned Access(按需访问)'</c>
+		<c>autoplay '自动播放'</c>
+		<c>azuread 'Azure Active Directory'</c>
+		<c>battery '电池'</c>
+		<c>biometricservice 'Windows 生物识别服务'</c>
+		<c>cdpsvc '已连接设备平台服务(CDPSvc)'</c>
+		<c>cursors '鼠标指针'</c>
+		<c>deviceexperience 'Device Experience（设备体验）'</c>
+		<c>devquerybroker 'DevQuery Background Discovery Broker'</c>
+		<c>diagnostics 'Diagnostics and Troubleshooting（诊断和故障排除）'</c>
+		<c>diskdiagnosis '磁盘故障诊断'</c>
+		<c>driver_battery.inf</c>
+		<c>driver_c_battery.inf</c>
+		<c>driver_c_fdc.inf</c>
+		<c>driver_c_floppydisk.inf</c>
+		<c>driver_c_infrared.inf</c>
+		<c>driver_c_smartcard.inf</c>
+		<c>driver_c_smartcardfilter.inf</c>
+		<c>driver_c_smartcardreader.inf</c>
+		<c>driver_cmbatt.inf</c>
+		<c>driver_fdc.inf</c>
+		<c>driver_flpydisk.inf</c>
+		<c>driver_hidbatt.inf</c>
+		<c>driver_hidir.inf</c>
+		<c>driver_hidirkbd.inf</c>
+		<c>driver_msclmd.inf</c>
+		<c>driver_scrawpdo.inf</c>
+		<c>driver_scunknown.inf</c>
+		<c>driver_tpmvsc.inf</c>
+		<c>driver_usbcciddriver.inf</c>
+		<c>driver_usbcir.inf</c>
+		<c>driver_wudfusbcciddriver.inf</c>
+		<c>dvdplay 'DVD 播放'</c>
+		<c>embeddedmode 'Embedded Mode（嵌入模式）'</c>
+		<c>encprovider 'Windows Encryption Provider Host Service（Windows 提供主机程序加密服务）'</c>
+		<c>eudcedit '专用字符编辑程序(Private Character Editor)'</c>
+		<c>exchangeactivesync 'Exchange ActiveSync (EAS)'</c>
+		<c>fdphost '网络发现(Network Discovery)'</c>
+		<c>filehistory '文件历史'</c>
+		<c>frameserver 'Camera Frame Server'</c>
+		<c>gameexplorer '游戏资源管理器'</c>
+		<c>hwsupport_fax '传真'</c>
+		<c>hwsupport_floppy '软盘'</c>
+		<c>hwsupport_infrared '红外设备'</c>
+		<c>hwsupport_internetprintingclient 'Internet 打印客户端'</c>
+		<c>hwsupport_modemsettings 'Shared modem settings (mdmgl*.inf)（共享调制解调器）'</c>
+		<c>hwsupport_smartcard '智能卡'</c>
+		<c>hwsupport_telephony 'Telephony（电话）'</c>
+		<c>hwsupport_tv 'TV Tuner 编码与支持'</c>
+		<c>indeo 'Intel Indeo 编码器'</c>
+		<c>iscsi 'iSCSI 发起程序'</c>
+		<c>isoburn 'Windows 光盘映像刻录工具'</c>
+		<c>legacycomponents '旧版组件'</c>
+		<c>location 'Location Service(位置服务)'</c>
+		<c>lockscreens '锁屏背景'</c>
+		<c>mediastreaming '流媒体'</c>
+		<c>memorydiagnostic '内存调试'</c>
+		<c>Microsoft.AAD.BrokerPlugin 'AAD.BrokerPlugin'</c>
+		<c>mpeg2splitter 'MPEG-2 分离器'</c>
+		<c>naturalauthentication '自然身份验证'</c>
+		<c>ndu 'Network Data Usage Monitoring Driver(网络数据使用监控服务)'</c>
+		<c>netqos 'Quality of Service Packet Scheduler (QoS)'</c>
+		<c>nettopology '链接层拓扑结构发现协议 (LLTD)'</c>
+		<c>nfsclient 'NFS 管理工具'</c>
+		<c>ntvdm 'NTVDM 16-位 子系统'</c>
+		<c>offlinefiles '脱机文件'</c>
+		<c>osk_acc '触摸键盘 (轻松访问工具)'</c>
+		<c>payments '付款和 NFC/SE 管理器'</c>
+		<c>perfmon '性能监视器'</c>
+		<c>perftools '追踪性能相关的 CMD 工具'</c>
+		<c>phonesvc 'Phone Service(电话服务)'</c>
+		<c>picturepassword '图片密码'</c>
+		<c>pimindexmaintenancesvc 'Contact Data(联系人数据)'</c>
+		<c>pla 'Performance Logs and Alerts(性能日志和警报)'</c>
+		<c>playready</c>
+		<c>pos 'Point of Service(服务点，POS机相关)'</c>
+		<c>proximity</c>
+		<c>rasauto '远程访问自动拨号管理器(RasAuto服务)'</c>
+		<c>remoteregistry '远程注册表'</c>
+		<c>rightsmanagement '权限管理支持'</c>
+		<c>screensavers '屏保'</c>
+		<c>sendmail '发送到-邮件与桌面'</c>
+		<c>settingsync '设置同步'</c>
+		<c>sharedpc 'Shared PC 模式'</c>
+		<c>sihclient 'Server-Initiated Healing Client(SIH 客户端)'</c>
+		<c>soundsdefault '声音 (默认)'</c>
+		<c>srumon '系统资源使用监视服务'</c>
+		<c>stepsrecorder '步骤记录器'</c>
+		<c>symboliclinks '旧的符号链接'</c>
+		<c>synccenter '同步中心'</c>
+		<c>tpmvsc '虚拟 Smart Card'</c>
+		<c>trkwks 'Distributed Link Tracking Client（分布式的链接跟踪客户端）'</c>
+		<c>unp 'Universal Notification Platform (UNP-通用通知平台)'</c>
+		<c>upnp 'UPnP Device Host（UPnP 设备主机）'</c>
+		<c>userdatasvc 'User Data Access(用户数据访问)'</c>
+		<c>userdeviceregistration '用户设备注册'</c>
+		<c>vcmcodecs '视频压缩管理器(VCM)编码器'</c>
+		<c>webclient 'Web客户端'</c>
+		<c>wifinetworkmanager 'Wi-Fi Network Manager (WLAN 感知)'</c>
+		<c>winrm 'Windows 远程管理 (WS-Management)'</c>
+		<c>wordpad '写字板'</c>
+		<c>zipfolder 'Zip 与 Cab 文件夹'</c>
+	</RemoveComponents>
+	<Compatibility protectHidden="true">
+		<ComponentFeatures>
+			<Feature enabled="no">OOBE</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="no">OfficeSupport</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="no">USBModem</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="yes">WindowsUpdate</Feature>
+			<Feature enabled="yes">Activation</Feature>
+			<Feature enabled="yes">ActivationKMS</Feature>
+			<Feature enabled="no">WLAN</Feature>
+			<Feature enabled="yes">Printing</Feature>
+			<Feature enabled="no">Recommended-All</Feature>
+			<Feature enabled="no">AppxSupport</Feature>
+			<Feature enabled="no">NetworkDiscovery</Feature>
+			<Feature enabled="no">VideoPlayback</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="no">DefaultFonts</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="no">Hyper-V VM</Machine>
+			<Machine enabled="no">Parallels VM</Machine>
+			<Machine enabled="no">Virtual Box VM</Machine>
+			<Machine enabled="no">VMware VM</Machine>
+			<Machine enabled="no">HostMachine</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features></Features>
+	<AddPackages></AddPackages>
+	<Drivers showHidden="true">
+		<AddDrivers></AddDrivers>
+	</Drivers>
+	<Unattended mode="0">
+		<OEMSetupComplete>false</OEMSetupComplete>
+		<AnswerFileLocationPanther>true</AnswerFileLocationPanther>
+		<AnswerFileLocationBoot>false</AnswerFileLocationBoot>
+		<SaveBothArch>false</SaveBothArch>
+		<settings pass="windowsPE">
+			<component name="Microsoft-Windows-Setup">
+				<DynamicUpdate>
+					<WillShowUI>OnError</WillShowUI>
+				</DynamicUpdate>
+				<ImageInstall>
+					<OSImage>
+						<WillShowUI>OnError</WillShowUI>
+						<InstallFrom>
+							<MetaData>
+								<Key>/IMAGE/NAME</Key>
+								<Value>Windows 10 Pro</Value>
+							</MetaData>
+						</InstallFrom>
+					</OSImage>
+				</ImageInstall>
+				<UserData>
+					<ProductKey>
+						<Key></Key>
+					</ProductKey>
+				</UserData>
+			</component>
+		</settings>
+	</Unattended>
+	<Tweaks>
+		<Settings></Settings>
+		<Services></Services>
+		<ExtraServices></ExtraServices>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveRebuild</Task>
+			<Task>imageFormatWim</Task>
+		</ImageTasks>
+		<AutoIsoFile>NTLite.iso</AutoIsoFile>
+		<AutoIsoLabel>NTLite</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+		<CleanHotfixedLeftovers>false</CleanHotfixedLeftovers>
+		<ReuseDriverCache>false</ReuseDriverCache>
+	</ApplyOptions>
+	<Execution>
+		<Add>
+			<Item type="Placeholder">
+				<Index>0</Index>
+			</Item>
+		</Add>
+		<Change></Change>
+		<Remove></Remove>
+	</Execution>
+	<Registry></Registry>
+</Preset>
