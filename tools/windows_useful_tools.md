@@ -25,6 +25,34 @@
 * [字由](https://www.hellofont.cn/home)
 > 千款字体，一键换字，设计早下班，作品更出众
 
+* [QuickLook](https://github.com/QL-Win/QuickLook)
+> 可以像MacOS一样（Bring MacOS Quicklook），通过“空格键（Space）”，预览各种格式的文件。
+
+下载地址：https://github.com/QL-Win/QuickLook/releases
+
+* [Ditto](https://ditto-cp.sourceforge.io/)
+> 免费开源的剪贴板增强软件。
+
+![](https://pic4.zhimg.com/80/v2-d636dbda30dd3d16e96b06968920cc93_1440w.webp)
+
+使用教程：https://zhuanlan.zhihu.com/p/206813990
+
+* [wgestures全局鼠标手势](http://www.yingdev.com/projects/wgestures)
+> 停止浪费时间在琐碎操作上！WGestures让用户跳过琐碎细节，专注于重要的事物。
+> * WGestures包含大量预设手势
+> * 精心设计的"快速入门"教程
+> * 不言自明的设置界面
+
+* [Quicker指尖工具箱](https://getquicker.net/)
+> 为您的常用操作创建捷径，帮你快速打开软件和执行常用操作。
+
+![](https://files.getquicker.net/_sitefiles/media/%E5%8A%A8%E4%BD%9C%E5%BA%93.png)
+
+* [Geek Uninstaller | 小巧实用的卸载工具](https://geekuninstaller.com/)
+> Geek Uninstaller的功能很简单，当然就是卸载软件了，包括桌面软件与UWP软件。
+
+![](https://geekuninstaller.com/assets/images/screen_1.png)
+
 ## 办公教育
 
 * [typora](https://www.typora.net/)
@@ -37,7 +65,34 @@
 
 ![](https://www.islide.cc/dist/static/summary_header.101403cf.png)
 
+* [Office 2013-2021 C2R Install v7.6.0 绿色汉化版](http://www.aichunjing.com/soft/2018-11-04/441.html)
+> Office 2013-2019 C2R Install(Office组件下载安装器)是一套专为微软Office 2013/2016/2019 C2R的在线安装和激活而设计的辅助工具。
+
+* [Google Chrome v111.0.5563.111 谷歌浏览器绿色增强版](http://www.aichunjing.com/soft/1380.html)
+> Google Chrome浏览器增强版是一款专为现代互联网开发的网络浏览器，高速、简约而且安全。
+
 ## 录像截图
+
+* [gifcam](https://blog.bahraniapps.com/gifcam)
+> 操作非常简单的Gif屏幕录制软件。
+
+* [Bandicam(班迪录屏)](https://www.bandicam.cn/)
+> Bandicam中文破解版可以录屏幕，录视频，录游戏。这款由韩国开发的高清视频录制工具，录制的视频文件体积小，支持录制H264编码的高清视频。
+
+![](https://www.whg6.com/wp-content/uploads/2021/11/2021120214122475.jpg)
+
+绿色版下载：https://www.whg6.com/1467.html
+
+* [Captura](https://mathewsachin.github.io/Captura/)
+> Captura是一款免费开源的屏幕录制工具，它能够将屏幕上的任意区域、窗口录制成视频。可以选择是否显示鼠标、记录鼠标点击、键盘按键、计时器、声音，也可以从网络摄像头捕获。此外该软件支持双屏录制，支持多媒体程序框架FFmpeg视频录制。
+
+![](https://mathewsachin.github.io/Captura/assets/ScreenShots/Home.png)
+
+下载地址：https://mathewsachin.github.io/Captura/download/
+
+FFmpeg官网地址：https://ffmpeg.org/download.html
+
+使用教程：https://zhuanlan.zhihu.com/p/513568582
 
 ## 媒体播放
 
@@ -52,3 +107,17 @@
 其他下载地址: https://www.ghxi.com/zyplayer.html
 
 ## 图像媒体处理
+
+* [PandaOCR](https://github.com/miaomiaosoft/PandaOCR)
+> 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
+
+![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png)
+
+## 上传下载
+
+* [IDM](https://www.internetdownloadmanager.com/)
+> Internet Download Manager，简称 IDM，是国外的一款优秀下载工具。
+
+![](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
+
+绿色特别版下载：[Internet Download Manager v6.41.10 绿色特别版](https://www.ghxi.com/pcidm.html?btwaf=36474761)
