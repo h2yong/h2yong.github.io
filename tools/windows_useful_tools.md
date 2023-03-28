@@ -1,6 +1,9 @@
 # 收录工作生活中常用佳软
 ## 系统工具
 
+* [7-zip](https://www.7-zip.org/)
+> 7-Zip是一款拥有极高压缩比的开源压缩软件，通常使用7-Zip的7z格式能比使用zip格式的压缩文件小30-70%。
+
 * [Everything](https://www.voidtools.com/zh-cn/)
 > 基于名称快速定位文件和文件夹
 
@@ -48,10 +51,20 @@
 
 ![](https://files.getquicker.net/_sitefiles/media/%E5%8A%A8%E4%BD%9C%E5%BA%93.png)
 
+* [utools效率工具](https://u.tools/)
+> 自由组合插件应用，打造专属你的趁手工具集。
+
+![](https://res.u-tools.cn/images/uTools_1675654844513.png)
+
 * [Geek Uninstaller | 小巧实用的卸载工具](https://geekuninstaller.com/)
 > Geek Uninstaller的功能很简单，当然就是卸载软件了，包括桌面软件与UWP软件。
 
 ![](https://geekuninstaller.com/assets/images/screen_1.png)
+
+* [SpaceSniffer电脑空间管理](http://www.uderzo.it/main_products/space_sniffer/)
+> Windows上一款以块状树平铺直观展现磁盘空间占用情况的软件，使用简单，功能直击痛点。
+
+![](https://attach.52pojie.cn/forum/201903/25/003752q31iczzqc0fzppty.jpg)
 
 ## 办公教育
 
@@ -94,7 +107,21 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 
 使用教程：https://zhuanlan.zhihu.com/p/513568582
 
+* [Snipaste](https://zh.snipaste.com/index.html)
+> Snipaste 是一个简单但强大的截图工具。
+
+![](https://i.v2ex.co/N3QEb3VA.png)
+
+官方下载地址：https://zh.snipaste.com/download.html
+
 ## 媒体播放
+
+* [PotPlayer](http://www.potplayercn.com/potplayer)
+> PotPlayer是KMPlayer原作者姜勇囍进入新公司Daum之后推出的，继承了 KMPlayer 所有的优点，拥有异常强大的内置音视频解码器，可以支持几乎全部音乐、视频文件格式的播放。
+
+![PotPlayer.jpg](https://s2.loli.net/2023/03/28/o4Ix31mbJqZLhM6.jpg)
+
+绿色版下载地址：https://www.52pojie.cn/thread-1170364-1-1.html
 
 * [listen1](https://listen1.github.io/listen1/)
 > Listen 1可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
@@ -116,7 +143,7 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 ## 上传下载
 
 * [IDM](https://www.internetdownloadmanager.com/)
-> Internet Download Manager，简称 IDM，是国外的一款优秀下载工具。
+> Internet Download Manager，简称 IDM，是国外的一款优秀下载工具。缺点：不支持磁力链和种子
 
 ![](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
 
