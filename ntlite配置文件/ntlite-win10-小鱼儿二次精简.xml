@@ -121,6 +121,7 @@
 		<c>enhancedstorage '增强存储(Enhanced Storage)'</c>
 		<c>eudcedit '专用字符编辑程序(Private Character Editor)'</c>
 		<c>eventviewer32 '事件查看器 - 32-位'</c>
+		<c>exchangeactivesync 'Exchange ActiveSync (EAS)'</c>
 		<c>explorer32 '文件资源管理器 - 32-位'</c>
 		<c>F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE '“添加文件夹建议”对话框'</c>
 		<c>facerecognition '面部识别'</c>
@@ -658,7 +659,7 @@
 			<Feature enabled="no">Discord</Feature>
 			<Feature enabled="no">Hyper-V</Feature>
 			<Feature enabled="no">iCloud</Feature>
-			<Feature enabled="yes">OfficeSupport</Feature>
+			<Feature enabled="no">OfficeSupport</Feature>
 			<Feature enabled="yes">AppxSupport</Feature>
 			<Feature enabled="no">Netflix</Feature>
 			<Feature enabled="no">NightLight</Feature>
@@ -808,7 +809,13 @@
 				<Tweak name="CloudContent\DisableWindowsConsumerFeatures">1</Tweak>
 			</TweakGroup>
 		</Settings>
-		<Services></Services>
+		<Services>
+			<TweakGroup name="services">
+				<Tweak name="iphlpsvc\iphlpsvc">3</Tweak>
+				<Tweak name="LanmanServer\LanmanServer">3</Tweak>
+				<Tweak name="SysMain\SysMain">4</Tweak>
+			</TweakGroup>
+		</Services>
 		<ExtraServices></ExtraServices>
 		<ScheduledTasks></ScheduledTasks>
 	</Tweaks>
