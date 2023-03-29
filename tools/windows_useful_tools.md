@@ -98,6 +98,13 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 * [gifcam](https://blog.bahraniapps.com/gifcam)
 > 操作非常简单的Gif屏幕录制软件。
 
+* [ScreenToGif](https://www.screentogif.com/downloads)
+> 一款免费、开源、小巧易用的Gif 录制/剪辑工具。
+
+![](https://pic4.zhimg.com/80/v2-f33171cbe00cc255a6c91bfc7b9afe9b_1440w.webp)
+
+使用教程：https://zhuanlan.zhihu.com/p/95936611
+
 * [Bandicam(班迪录屏)](https://www.bandicam.cn/)
 > Bandicam中文破解版可以录屏幕，录视频，录游戏。这款由韩国开发的高清视频录制工具，录制的视频文件体积小，支持录制H264编码的高清视频。
 
@@ -127,6 +134,11 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 > 一款你值得拥有的截图识别工具，主要的截图功能有全屏截图、区域截图、滚动截图、截图阴影等等。截图后可以设置保存图片、上传图片、扫描二维码，设置完成后之后就会自动保存图片。还可以通过一些快捷键进行操作，截图效率更高。
 
 ![](https://getsharex.com/img/ShareX_Screenshot.png)
+
+* [VeryCapture](https://verycapture.com/cn/index.html)
+> VeryCapture是一款新鲜的功能全面免费截图工具，可截图、可录屏、可PIN图、可标注、可OCR、可翻译，双击 ctrl 呼出截图界面,非常快捷、全面。
+
+![](https://verycapture.com/cn/docs/main.jpg)
 
 ## 媒体播放
 
