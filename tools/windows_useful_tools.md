@@ -12,7 +12,8 @@
 绿色版下载地址: https://www.voidtools.com/zh-cn/downloads/
 
 * [listary](https://www.listary.com/)
-> Windows 文件浏览增强工具
+> Listary 是一个革命性的Windows搜索工具，借助 Listary软件，你可以快速搜索电脑文件、定位文件、执行智能命令、记录访问历史、快速切换目录、收藏常用项目等。  
+Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、人性化的文件（夹）定位方式，同时改善了常见文件管理器中文件夹切换的效率。
 
 ![Listary3.gif](https://s2.loli.net/2023/03/28/7xeDAL6JCERTkmG.gif)
 
@@ -25,11 +26,17 @@
 * [cpu-z](https://www.cpuid.com/softwares/cpu-z.html)
 > CPU-Z是一款功能强大的CPU检测工具，软件能够帮助用户显示当前电脑CPU的详细信息，包括插槽、规格、核心速度等各项数据都可以通过这款软件轻松掌握，让你可以全面了解自己电脑CPU的性能。此外CPU-Z还支持主板、内存、显卡等其它硬件的检测，功能非常强大。
 
+* [dropit](http://www.dropitproject.com/)
+> 文件自动整理归类收纳工具，主打windows文件自动归类，功能非常强大，非常适合懒癌患者。只需要预先设置好分类规则，一键拖拽后，就可以自动帮你分类整理。
+
+![](https://pic3.zhimg.com/v2-8bf2a32337369ec571e168e039ab0092_b.webp)
+
 * [字由](https://www.hellofont.cn/home)
-> 千款字体，一键换字，设计早下班，作品更出众
+> 一款设计师必备的免费商用字体库，可通过收藏、搜索、标签、案例等方式快速找到所需字体。内置了大量的字体素材，无需手动安装字体，点击选中就可以直接切换对应的字体。包括几百种免费商用的字体，不用担心字体侵权的问题。
+
 
 * [QuickLook](https://github.com/QL-Win/QuickLook)
-> 可以像MacOS一样（Bring MacOS Quicklook），通过“空格键（Space）”，预览各种格式的文件。
+> 可以像MacOS一样（Bring MacOS Quicklook），通过"空格键（Space）"，预览各种格式的文件。
 
 下载地址：https://github.com/QL-Win/QuickLook/releases
 
@@ -114,6 +121,11 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 
 官方下载地址：https://zh.snipaste.com/download.html
 
+* [sharex](https://getsharex.com/)
+> 一款你值得拥有的截图识别工具，主要的截图功能有全屏截图、区域截图、滚动截图、截图阴影等等。截图后可以设置保存图片、上传图片、扫描二维码，设置完成后之后就会自动保存图片。还可以通过一些快捷键进行操作，截图效率更高。
+
+![](https://getsharex.com/img/ShareX_Screenshot.png)
+
 ## 媒体播放
 
 * [PotPlayer](http://www.potplayercn.com/potplayer)
@@ -143,7 +155,7 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 ## 上传下载
 
 * [IDM](https://www.internetdownloadmanager.com/)
-> Internet Download Manager，简称 IDM，是国外的一款优秀下载工具。缺点：不支持磁力链和种子
+> Internet Download Manager，简称 IDM，是国外的一款优秀下载工具。缺点：不支持磁力链、种子和ed2k链接
 
 ![](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
 
