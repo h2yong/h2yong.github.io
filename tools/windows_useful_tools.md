@@ -73,7 +73,14 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 * [SpaceSniffer电脑空间管理](http://www.uderzo.it/main_products/space_sniffer/)
 > Windows上一款以块状树平铺直观展现磁盘空间占用情况的软件，使用简单，功能直击痛点。
 
-![](https://attach.52pojie.cn/forum/201903/25/003752q31iczzqc0fzppty.jpg)
+![SpaceSniffer.jpg](https://s2.loli.net/2023/03/29/8Mupf5YTcKVGviQ.jpg)
+
+* [fliqlo](https://fliqlo.com/)
+> Win10极简fliqlo时钟屏保。
+
+![](https://pic1.zhimg.com/v2-7b0607a2d773e678f74581fab11148bd_1440w.jpg?source=172ae18b)
+
+使用教程：https://zhuanlan.zhihu.com/p/484291289
 
 ## 办公教育
 
