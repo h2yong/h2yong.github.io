@@ -36,7 +36,6 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 * [字由](https://www.hellofont.cn/home)
 > 一款设计师必备的免费商用字体库，可通过收藏、搜索、标签、案例等方式快速找到所需字体。内置了大量的字体素材，无需手动安装字体，点击选中就可以直接切换对应的字体。包括几百种免费商用的字体，不用担心字体侵权的问题。
 
-
 * [QuickLook](https://github.com/QL-Win/QuickLook)
 > 可以像MacOS一样（Bring MacOS Quicklook），通过"空格键（Space）"，预览各种格式的文件。
 
@@ -75,6 +74,11 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 
 ![SpaceSniffer.jpg](https://s2.loli.net/2023/03/29/8Mupf5YTcKVGviQ.jpg)
 
+* [TreeSize Free](https://www.jam-software.com/treesize_free)
+>  TreeSize Free 是一款电脑的硬盘空间管理工具，它可以显示文件大小和实际空间占用数以及浪费的空间等，每一个结果都能以树形结构打开来查看，这样我们就能根据分析找出不需要的文件然后选择性整理删除。
+
+![](https://www.jam-software.com/sites/default/files/treesize_free/online_manual/EN/TreeSizeFree-Classic-MainForm-Touch.png)
+
 * [fliqlo](https://fliqlo.com/)
 > Win10极简fliqlo时钟屏保。
 
@@ -99,6 +103,11 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 
 * [Google Chrome v111.0.5563.111 谷歌浏览器绿色增强版](http://www.aichunjing.com/soft/1380.html)
 > Google Chrome浏览器增强版是一款专为现代互联网开发的网络浏览器，高速、简约而且安全。
+
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
+> SumatraPDF 是一种多格式（PDF、EPUB、MOBI、FB2、CHM、XPS、DjVu）阅读器，适用于 (A)GPLv3 许可的 Windows，部分代码符合 BSD 许可（参见作者）。它很小，启动速度很快。用户界面的简单性对我们很重要。
+
+![](https://www.sumatrapdfreader.org/img/format-epub.png)
 
 ## 录像截图
 
