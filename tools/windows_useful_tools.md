@@ -190,6 +190,13 @@ PicPick截屏功能支持截取全屏、活动窗口、指定区域、固定区�
 
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png)
 
+* [ImageGlass(图片浏览器)](https://github.com/d2phap/ImageGlass)
+> ImageGlass是一款常用的图像浏览工具，用于浏览各种最常见的图像格式。支持显示放小的图片，支持显示大图。显示图片速度更加流畅，加载更加快速，支持将图片转换不同格式。
+
+![](https://raw.githubusercontent.com/ImageGlass/website-content/main/releases/screenshots/v8.8/8.8_1.jpg)
+
+绿色便携版：https://www.ghxi.com/imageglass.html
+
 ## 上传下载
 
 * [IDM](https://www.internetdownloadmanager.com/)
