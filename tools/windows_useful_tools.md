@@ -64,6 +64,12 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 
 ![](https://res.u-tools.cn/images/uTools_1675654844513.png)
 
+* [Microsoft PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/)
+> Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。
+
+![](https://learn.microsoft.com/zh-cn/windows/images/pt-powerrun-demo.gif)  
+![](https://learn.microsoft.com/zh-cn/windows/images/powerrename-demo.gif)
+
 * [Geek Uninstaller | 小巧实用的卸载工具](https://geekuninstaller.com/)
 > Geek Uninstaller的功能很简单，当然就是卸载软件了，包括桌面软件与UWP软件。
 
