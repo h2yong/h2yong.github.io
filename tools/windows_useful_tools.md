@@ -59,6 +59,11 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 
 ![](https://files.getquicker.net/_sitefiles/media/%E5%8A%A8%E4%BD%9C%E5%BA%93.png)
 
+* [Wox](https://github.com/Wox-launcher/Wox)
+> Wox 是一款在Windows上使用的快捷启动器，它可以启动程序、执行命令行、搜索网页，还可以自定义各种功能。
+
+![](https://camo.githubusercontent.com/3fc6b2a5cff7c4e44096cd4bc2f978b128dcc6fce29a838f57e51d15f5be288d/687474703a2f2f692e696d6775722e636f6d2f4474784e424a692e676966)
+
 * [utools效率工具](https://u.tools/)
 > 自由组合插件应用，打造专属你的趁手工具集。
 
