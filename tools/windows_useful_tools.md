@@ -156,6 +156,14 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 
 ![](https://verycapture.com/cn/docs/main.jpg)
 
+* [PicPick](https://picpick.app/zh/)
+> PicPick是一款小巧而功能丰富的截屏软件，兼具白板、屏幕标尺、直角座标或极座标显示与测量、屏幕取色等功能。
+PicPick截屏功能支持截取全屏、活动窗口、指定区域、固定区域、手绘区域功能，支持滚动截屏，支持双显示器，对截屏后的图像可以进行图像编辑和标注功能。截图可以保存到剪贴板、自动或手动命名的文件（png/gif/jpg/bmp）
+
+![](https://picpick.app/static/landing_light-0748073e4e6f65f360647562e168ad53.png)
+
+绿色便携版：https://www.ghxi.com/picpick.html
+
 ## 媒体播放
 
 * [PotPlayer](http://www.potplayercn.com/potplayer)
