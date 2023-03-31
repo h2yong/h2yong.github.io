@@ -75,6 +75,11 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 ![](https://learn.microsoft.com/zh-cn/windows/images/pt-powerrun-demo.gif)  
 ![](https://learn.microsoft.com/zh-cn/windows/images/powerrename-demo.gif)
 
+* [AnyTxt](https://anytxt.net/)
+> AnyTXT Searcher 是一款功能强大的文件内容搜索应用程序，就像一个本地磁盘 Google 搜索引擎，并且比Windows 搜索和Windows findstr 命令快得多。Anytxt 是您最好的桌面文件内容全文搜索引擎和 Google 桌面搜索的最佳替代品。
+
+![](https://anytxt.net/wp-content/uploads/2022/10/20221007014339.png)
+
 * [Geek Uninstaller | 小巧实用的卸载工具](https://geekuninstaller.com/)
 > Geek Uninstaller的功能很简单，当然就是卸载软件了，包括桌面软件与UWP软件。
 
