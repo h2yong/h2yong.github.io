@@ -206,6 +206,11 @@ PicPick截屏功能支持截取全屏、活动窗口、指定区域、固定区�
 
 ![](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png)
 
+* [树洞OCR文字识别](https://github.com/AnyListen/tools-ocr)
+> 一款跨平台的 OCR 小工具。
+
+![](https://camo.githubusercontent.com/8c0703445856223b5cf0d419b932f1a926464201387a3126d3852006e077d6c9/687474703a2f2f696d672e69666973682e66756e2f4672516e67593057734d5a502d66364e427a6531346e3053534b6b42)
+
 * [ImageGlass(图片浏览器)](https://github.com/d2phap/ImageGlass)
 > ImageGlass是一款常用的图像浏览工具，用于浏览各种最常见的图像格式。支持显示放小的图片，支持显示大图。显示图片速度更加流畅，加载更加快速，支持将图片转换不同格式。
 
