@@ -123,6 +123,9 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 
 ![菲菲更名宝贝之得意非凡.png](https://s2.loli.net/2023/04/06/FdbKJLUIgSwVjYX.png)
 
+* [FastGithub](https://github.com/dotnetcore/FastGithub)
+> github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
+
 ## 办公教育
 
 * [typora](https://www.typora.net/)
