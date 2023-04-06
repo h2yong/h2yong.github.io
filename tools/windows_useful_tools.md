@@ -218,6 +218,11 @@ PicPick截屏功能支持截取全屏、活动窗口、指定区域、固定区�
 * [listen1](https://listen1.github.io/listen1/)
 > Listen 1可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 
+* [洛雪音乐助手](https://lxmusic.toside.cn/)
+> 洛雪音乐助手一个基于 Electron + Vue 开发的音乐软件，支持在Windows、Mac OS、Linux、Android 多个平台上运行。
+
+![](https://www.maxiaobang.com/wp-content/uploads/2022/09/Snipaste_2022-09-03_01-46-53.png)
+
 * [ZYPlayer](https://github.com/Hunlongyu/ZY-Player)
 > ZYPlayer是一款基于electron开发的一款播放器，最大的特色就是爬取了好多个大资源网站，能一键搜索全网影视，并且没有广告播放相关网站的影视。
 
