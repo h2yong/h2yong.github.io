@@ -126,6 +126,23 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 * [FastGithub](https://github.com/dotnetcore/FastGithub)
 > github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
 
+* [Files](https://github.com/files-community/Files)
+> 开源的第三方 Windows 资源管理器。
+
+![](https://pic3.zhimg.com/v2-153121d38f831bcfbf113b3428ab4882_b.webp)
+
+* [RX-Explorer](https://github.com/zhuxb711/RX-Explorer)
+> RX 文件管理器是一款功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。
+
+![](https://maxiaobang.com/wp-content/uploads/2020/09/4.gif)
+
+* [Clover](http://cn.ejie.me/blog.html)
+> Clover 是 Windows Explorer 资源管理器的一个扩展，为其增加类似谷歌 Chrome 浏览器的多标签页功能。
+
+![](https://pic4.zhimg.com/v2-96f7d2296d2c7431902486f6f412a897_r.jpg)
+
+绿色版：https://www.423down.com/596.html
+
 ## 办公教育
 
 * [typora](https://www.typora.net/)
