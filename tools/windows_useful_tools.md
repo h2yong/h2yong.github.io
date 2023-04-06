@@ -102,6 +102,11 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 
 使用教程：https://zhuanlan.zhihu.com/p/484291289
 
+* [privatezilla](https://github.com/builtbybel/privatezilla/releases)
+> Privatezilla 集成了最重要的 Windows 10 隐私设置，并允许针对这些设置快速执行隐私检查。 它可以微调 Windows 10 的许多设置并配置隐私，而无需浏览一百个不同的菜单。活动设置被标记为“已配置”状态，表示您的隐私受到保护。 不活动的被声明为“未配置”。 所有可用设置均可启用和禁用。
+
+![](https://user-images.githubusercontent.com/57478606/117534110-58195880-aff0-11eb-85ae-87dda73ffad8.png)
+
 ## 办公教育
 
 * [typora](https://www.typora.net/)
@@ -124,6 +129,11 @@ Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、
 > SumatraPDF 是一种多格式（PDF、EPUB、MOBI、FB2、CHM、XPS、DjVu）阅读器，适用于 (A)GPLv3 许可的 Windows，部分代码符合 BSD 许可（参见作者）。它很小，启动速度很快。用户界面的简单性对我们很重要。
 
 ![](https://www.sumatrapdfreader.org/img/format-epub.png)
+
+* [copytranslator](https://copytranslator.github.io/)
+> 一款功能强大的复制翻译工具，支持的功能有：复制即可翻译、拖拽翻译、智能互译、智能词典、聚合了多个翻译引擎（包含有 Google 、 Baidu 、 Youdao 、Sogou 、 Caiyun 、 Tencent 等）。
+
+![](https://s1.ax1x.com/2020/10/06/0NOGOH.png)
 
 ## 录像截图
 
@@ -229,3 +239,10 @@ PicPick截屏功能支持截取全屏、活动窗口、指定区域、固定区�
 ![](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
 
 绿色特别版下载：[Internet Download Manager v6.41.10 绿色特别版](https://www.ghxi.com/pcidm.html?btwaf=36474761)
+
+* [motrix](https://motrix.app/zh-CN)
+> 一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链接等资源。
+
+![](https://s.motrix.app/images/screenshot-task-list-downloading-zh@2x.png)
+
+绿色便携版：https://github.com/agalwood/Motrix/releases
