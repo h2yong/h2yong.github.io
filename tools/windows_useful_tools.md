@@ -143,6 +143,9 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 
 绿色版：https://www.423down.com/596.html
 
+* [微软电脑管家](https://pcmanager.microsoft.com/)
+![](https://pcmanager.microsoft.com/assets/appindex.png)
+
 ## 办公教育
 
 * [typora](https://www.typora.net/)
@@ -154,6 +157,14 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 > iSlide 是一款基于 PPT 的插件工具，包含 38 个设计辅助功能，8 大在线资源库，超 30 万专业 PPT 模板/素材。
 
 ![](https://www.islide.cc/dist/static/summary_header.101403cf.png)
+
+* [MotionGo](https://motion.yoo-ai.com/)
+> MotionGo是必优科技(原口袋动画团队)全新升级的一款PPT动画插件,兼容WPS和office软件,轻量级产品,让PPT动效表达更专业。原创商用PPT动画,数据看板,智能数据可视化,PPT动态图标。
+
+![SP_20221204_131310.jpg](https://s2.loli.net/2023/04/07/GdtBX5vaKEQ1Zem.jpg)
+<div style="text-align: center">
+<img src="https://s2.loli.net/2023/04/07/vpl6Sak142CZEf9.jpg"/>
+</div>
 
 * [Office 2013-2021 C2R Install v7.6.0 绿色汉化版](http://www.aichunjing.com/soft/2018-11-04/441.html)
 > Office 2013-2019 C2R Install(Office组件下载安装器)是一套专为微软Office 2013/2016/2019 C2R的在线安装和激活而设计的辅助工具。
