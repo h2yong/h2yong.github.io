@@ -210,7 +210,8 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 
 FFmpeg官网地址：https://ffmpeg.org/download.html
 
-使用教程：https://zhuanlan.zhihu.com/p/513568582
+使用教程：https://zhuanlan.zhihu.com/p/513568582  
+[免费开源录屏软件 Captura 及 FFmpeg 安装配置教程](https://zhuanlan.zhihu.com/p/294895620)
 
 * [Snipaste](https://zh.snipaste.com/index.html)
 > Snipaste 是一个简单但强大的截图工具。
