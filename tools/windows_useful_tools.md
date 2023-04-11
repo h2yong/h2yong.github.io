@@ -189,6 +189,9 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 
 便携版：https://www.jb51.net/softs/851309.html
 
+* [微信PC版WeChat多开防撤回绿色版](https://www.whg6.com/1132.html)
+> 经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容，而这个微信多开防撤回版就可以实现多开支持并且可以消息防撤回。
+
 ## 录像截图
 
 * [gifcam](https://blog.bahraniapps.com/gifcam)
