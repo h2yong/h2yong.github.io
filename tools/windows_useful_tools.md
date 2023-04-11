@@ -182,6 +182,13 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 
 ![](https://s1.ax1x.com/2020/10/06/0NOGOH.png)
 
+* [xmind](https://xmind.cn/)
+> Xmind是一款 全功能 的思维导图和头脑风暴软件。像大脑的瑞士军刀一般，助你理清思路，捕捉创意。
+
+![](https://s3.cn-north-1.amazonaws.com.cn/assets.xmind.cn/www/assets/images/xmind2022-homepage-new/cn/platform-window@2x-411b3c29a0.png)
+
+便携版：https://www.jb51.net/softs/851309.html
+
 ## 录像截图
 
 * [gifcam](https://blog.bahraniapps.com/gifcam)
