@@ -156,6 +156,16 @@ $ du -d 1 /home/h2yong/logs/* | sort -n
 18467696	/opt/huawei/logs
 ```
 
+## 如何查看端口被哪个进程占用
+
+```shell
+# 方法一
+lsof -i:端口号
+
+# 方法二
+netstat -tunlp|grep 端口号
+```
+
 # linux 命令大全
 
 [man.linuxde.net](https://man.linuxde.net/par/3)
