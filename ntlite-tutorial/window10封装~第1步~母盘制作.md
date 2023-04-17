@@ -2,7 +2,7 @@
 
 ## 用到的软件
 
-- [ntlite 官方最新版本（未破解）](https://www.ntlite.com/download/)
+- [ntlite 官方最新版本](https://www.ntlite.com/download/)
 
 ## ntlite 组件移除
 
