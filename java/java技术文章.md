@@ -134,3 +134,4 @@
 
 - [Intellij IDEA 实用插件推荐](https://juejin.im/post/6844904082721734663)
 - [提升开发效率N倍的20+命令行神器，赶紧收藏了](https://developer.51cto.com/art/202009/626015.htm)
+- [制品仓](https://jfrog.com/)
