@@ -94,6 +94,9 @@
 - [jekyll](http://jekyllcn.com/)
   - <http://theme-next.simpleyyt.com/>
 - <https://docsify.js.org/#/zh-cn/>
+- https://github.com/11ty/eleventy
+- https://github.com/mkdocs/mkdocs
+- https://github.com/react-static/react-static
 
 ## 静态 doc 网站
 
