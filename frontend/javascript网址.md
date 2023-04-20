@@ -97,6 +97,7 @@
 - https://github.com/11ty/eleventy
 - https://github.com/mkdocs/mkdocs
 - https://github.com/react-static/react-static
+- https://astro.build/
 
 ## 静态 doc 网站
 
@@ -188,14 +189,6 @@
 ## vue 文章
 
 - [vue 组件汇总](https://juejin.im/post/5af16a2cf265da0b8636353b)
-
-## angular 前端框架
-
-- <https://ng.ant.design/docs/introduce/zh>
-
-## angular 脚手架
-
-- 基于 Antd 中后台前端解决方案：<https://ng-alain.com/zh>
 
 ## webpack2 教程
 
