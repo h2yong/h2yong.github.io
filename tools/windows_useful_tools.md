@@ -192,7 +192,7 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 * [微信PC版WeChat多开防撤回绿色版](https://www.whg6.com/1132.html)
 > 经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容，而这个微信多开防撤回版就可以实现多开支持并且可以消息防撤回。
 
-## 录像截图
+## 截图录屏
 
 * [gifcam](https://blog.bahraniapps.com/gifcam)
 > 操作非常简单的Gif屏幕录制软件。
@@ -239,6 +239,12 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
 > VeryCapture是一款新鲜的功能全面免费截图工具，可截图、可录屏、可PIN图、可标注、可OCR、可翻译，双击 ctrl 呼出截图界面,非常快捷、全面。
 
 ![](https://verycapture.com/cn/docs/main.jpg)
+
+评测：http://quibbler.cn/?thread-785.htm
+  * 除了常用的全屏截图、矩形截图，还有几个有意思也比较实用的截图方式：长截屏、任意截屏。
+  * 实测录制效果一般，甚至有卡顿。
+  * 可以录制Gif，但是分辨率、流畅度都不及Honeycam。
+  * 不支持窗口截图。 
 
 * [PicPick](https://picpick.app/zh/)
 > PicPick是一款小巧而功能丰富的截屏软件，兼具白板、屏幕标尺、直角座标或极座标显示与测量、屏幕取色等功能。
