@@ -1,14 +1,17 @@
 # 使用工具优化与清理
 
-## 下载用到的软件
+## 用到的软件
 
 - [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html)
 
 ## 使用小鱼儿yr系统封装优化设置辅助工具优化设置与系统清理
 
-按照下图步骤，运行辅助工具，选择优化栏目，然后选择《封装推荐优化方案》，直接点一键优化即可。
-
+按照下图步骤，运行辅助工具，选择优化栏目，然后选择《封装推荐优化方案》。
 ![](https://img.itsk.com/itkdx/attachment/forum/202001/31/115401pwgxv3j0vleyz0m4.jpg)
+
+单独补充增加并勾上【解除程序文件风险警告】【禁用主机同步服务】【禁止商店自动下载更新】【禁止各种隐私收集】【全面禁止系统更新】，这5个优化项目没有归类到【封装推荐优化方案】里，所以要单独勾选一下。你也可以按照符合自己的习惯进行勾选，勾选完后新建一个优化方案，保存后方便随时按照自己的设置进行一键优化。
+![](https://img.itsk.com/itkdx/attachment/forum/202201/14/174630wllwdd6nr2sb2l93.jpg)
+![](https://img.itsk.com/itkdx/attachment/forum/202201/14/174421km097kmgomz9xfcm.jpg)
 
 ### 优化容易遇到的坑
 
@@ -37,3 +40,6 @@
 软媒也是一款比较经典的老款优化清理软件，其优化部分我们也不用设置了，辅助工具已经代替它帮我们优化过系统了，我们就用它清理一下就行了。只选择一键清理和系统隐私进行清理即可。
 ![](https://img.itsk.com/itkdx/attachment/forum/202201/14/223651bqetmegm1y3st9sf.jpg)
 ![](https://img.itsk.com/itkdx/attachment/forum/202201/14/223651g6m5uvusl2suvswv.jpg)
+
+## 拍摄快照备份
+![](https://img.itsk.com/itkdx/attachment/forum/202201/14/224011rc5mcmz6o611vbm6.jpg)
