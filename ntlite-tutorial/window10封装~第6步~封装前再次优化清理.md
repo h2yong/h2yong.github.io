@@ -13,7 +13,7 @@
 
 ## vmware添加网络
 
-## ## 更新MicroSoft Store、计算器等自带应用
+## 更新MicroSoft Store、计算器等自带应用
 进入MicroSoft Store，直接更新MicroSoft Store、计算器。
 
 ## 封装前全面清理
