@@ -6,6 +6,7 @@
 - [Easy Sysprep 5S RS2](https://www.itsk.com/thread-428084-1-1.html)
 - [万能驱动](https://www.itsk.com/thread-428855-1-1.html)
 - [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
+- [软媒清理大师单文件版3.7.8.0](https://www.yrxitong.com/h-nd-122.html)
 - [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html)
 - [系统和Office激活工具_HEU KMS Activator](https://www.yrxitong.com/h-nd-759.html)
 
