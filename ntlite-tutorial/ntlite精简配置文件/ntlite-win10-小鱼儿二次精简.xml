@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>04/21/2023 16:39:41</Date>
+	<Date>04/23/2023 14:11:06</Date>
 	<AppInfo>
 		<Version>2023.4.9196</Version>
 		<Licensed>Yes</Licensed>
@@ -165,6 +165,7 @@
 		<c>font_microsoftjhengheibold 'Microsoft JhengHei Bold &amp; Microsoft JhengHei UI Bold'</c>
 		<c>font_microsoftjhengheilight 'Microsoft JhengHei Light &amp; Microsoft JhengHei UI Light'</c>
 		<c>font_microsoftyaheibold 'Microsoft YaHei Bold &amp; Microsoft YaHei UI Bold'</c>
+		<c>font_microsoftyaheilight 'Microsoft YaHei Light &amp; Microsoft YaHei UI Light'</c>
 		<c>font_mingliub 'MingLiU-ExtB &amp; PMingLiU-ExtB &amp; MingLiU_HKSCS-ExtB'</c>
 		<c>font_mongolianbaiti 'Mongolian Baiti'</c>
 		<c>font_msgothic 'MS Gothic &amp; MS UI Gothic &amp; MS PGothic'</c>
@@ -643,7 +644,6 @@
 		<c>winai 'Windows AI 机器学习'</c>
 		<c>windows.cbspreview 'Windows 条形码预览'</c>
 		<c>windows.devicesflow32 'Devices Flow - 32-位'</c>
-		<c>winocr 'Windows TIFF IFilter(光学字符识别 OCR )'</c>
 		<c>winresume 'Resume from Hibernate'</c>
 		<c>winrm 'Windows 远程管理 (WS-Management)'</c>
 		<c>wiredautoconfig '有线自动配置(Wired AutoConfig)'</c>
