@@ -29,6 +29,8 @@
 ## 安装[VisualStudioCode](https://code.visualstudio.com/)
 打开[VisualStudioCode](https://code.visualstudio.com/)安装包，依次点击下一步即可完成安装。
 
+安装等宽字体，并设置为首选字体。教程：https://www.jianshu.com/p/46fdb5d275a6
+
 ## 专业工具安装
 将专业工具文件夹拷贝到开始菜单的程序目录下，即C:\ProgramData\Microsoft\Windows\Start Menu\Programs目录下
 ![](https://img.itsk.com/itkdx/attachment/forum/202006/16/000416jtgcn1guxt8z11nr.png)

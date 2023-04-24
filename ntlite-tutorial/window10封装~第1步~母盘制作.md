@@ -1,6 +1,7 @@
 # 母盘制作
 ## 用到的软件
 - [ntlite 官方最新版本](https://www.ntlite.com/download/)
+- [ntlite1.5破解版](https://www.whg6.com/12448.html)
 
 ## ntlite 组件移除
 ntlite WIN10精简配置文件：https://github.com/h2yong/h2yong.github.io/blob/master/ntlite-tutorial/ntlite%E7%B2%BE%E7%AE%80%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/ntlite-win10-%E5%B0%8F%E9%B1%BC%E5%84%BF%E4%BA%8C%E6%AC%A1%E7%B2%BE%E7%AE%80.xml
