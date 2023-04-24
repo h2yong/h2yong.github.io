@@ -1,15 +1,7 @@
 # 母盘安装和系统调整
-## 关闭磁盘索引
-磁盘索引一般对机械硬盘有用，对固态硬盘基本上没什么用，现在的系统盘基本都是固态硬盘，建议关掉磁盘索引。按照下图步骤，只需要关闭C盘系统盘索引即可。
-![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095514grxgvg7gqxvm17vs.jpg)
-![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095515m45be8rzbvun88z4.jpg)
-![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095515obw8bpjrb5bje5er.jpg)
 
-## 将所有桌面快捷方式图标转移到公共桌面
+## 运行[辅助工具](https://www.yrxitong.com/h-nd-100.html)将所有桌面快捷方式图标转移到公共桌面
 ![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095540tevb8kdm4pdbhk9t.jpg)
-
-## 所有网络里，设置“启用共享以便可以访问网络的用户可以读取和写入共用文件夹中的文件”，如下图先打开控制面板，然后打网络和共享中心，更改高级共享设置。
-![](https://img.itsk.com/itkdx/attachment/forum/202002/16/173603qf46d9j367iazb3v.jpg)
 
 ## vmware添加网络
 
@@ -17,9 +9,7 @@
 进入MicroSoft Store，直接更新MicroSoft Store、计算器。
 
 ## 封装前全面清理
-
 ### 使用Dism++清理
-
 按照下图步骤继续用Dism++进行清理。
 ![](https://img.itsk.com/itkdx/attachment/forum/202001/31/142950j3fjjz4pjpozjlu5.jpg)
 

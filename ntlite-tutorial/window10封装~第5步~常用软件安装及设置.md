@@ -7,6 +7,7 @@
 - [7zip](https://www.7-zip.org/)
 - [Office2021](https://www.yrxitong.com/h-nd-1030.html)
 - [PotPlayer](https://www.yrxitong.com/h-nd-287.html)
+- [Chrome](https://www.ghxi.com/chrome.html)
 
 ## 安装运行库组件
 ### 安装IT天空一键运行库的[GoRuntime_DirectX_9.0c运行库](https://www.itsk.com/thread-396895-1-1.html)
@@ -23,6 +24,9 @@
 打开[7zip](https://www.7-zip.org/)安装包，依次点击下一步即可完成安装。并安装下面设置[7zip](https://www.7-zip.org/)：
 ![7zip文件类型关联.png](https://s2.loli.net/2023/04/23/uwgCnZ8iRWs4por.png)
 ![7zip右键菜单设置.png](https://s2.loli.net/2023/04/23/eUgdywCWhjA1ns2.png)
+
+## 安装[Chrome浏览器]
+解压安装包，执行`优化`即可。执行完成将快捷方式拷贝到桌面。
 
 ## 安装[Office2021](https://www.yrxitong.com/h-nd-1030.html)
 打开离线[Office2021](https://www.yrxitong.com/h-nd-1030.html)安装包后，选择相应组件（通常选择word/excel/powerpoint）一键安装。  

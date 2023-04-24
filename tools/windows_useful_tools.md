@@ -245,6 +245,7 @@ FFmpeg官网地址：https://ffmpeg.org/download.html
   * 实测录制效果一般，甚至有卡顿。
   * 可以录制Gif，但是分辨率、流畅度都不及Honeycam。
   * 不支持窗口截图。 
+  * 矩形截图存在漂移现象。
 
 * [PicPick](https://picpick.app/zh/)
 > PicPick是一款小巧而功能丰富的截屏软件，兼具白板、屏幕标尺、直角座标或极座标显示与测量、屏幕取色等功能。
