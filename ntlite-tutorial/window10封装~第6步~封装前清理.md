@@ -1,5 +1,4 @@
-# 母盘安装和系统调整
-
+# 封装前清理
 ## 运行[辅助工具](https://www.yrxitong.com/h-nd-100.html)将所有桌面快捷方式图标转移到公共桌面
 ![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095540tevb8kdm4pdbhk9t.jpg)
 

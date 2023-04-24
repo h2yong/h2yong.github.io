@@ -1,5 +1,4 @@
-# 母盘安装和系统调整
-
+# ES5封装
 ## ES5S封装第一阶段设置
 进入桌面环境，打开ES5S依次按照下图操作进行第一阶段设置。
 ![](https://img.itsk.com/itkdx/attachment/forum/202202/20/181451nkm2bff2kbzojzqy.jpg)

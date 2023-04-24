@@ -1,11 +1,8 @@
 # 母盘 dism++优化
-
 ## dism++下载
-
 [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
 
 ## dism++精简优化过程
-
 - 打开 Dism++，点击<font color='red'>文件栏</font>选择<font color='red'>挂载映像</font>选项。
 
 ![img](https://img.itsk.com/itkdx/attachment/forum/202006/03/092555bf8fxjm3atf8745x.png)
