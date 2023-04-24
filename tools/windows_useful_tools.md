@@ -9,8 +9,6 @@
 
 ![](https://www.voidtools.com/zh-cn/support/everything/Everything.Search.Window.png)
 
-绿色版下载地址: https://www.voidtools.com/zh-cn/downloads/
-
 * [listary](https://www.listary.com/)
 > Listary 是一个革命性的Windows搜索工具，借助 Listary软件，你可以快速搜索电脑文件、定位文件、执行智能命令、记录访问历史、快速切换目录、收藏常用项目等。  
 Listary为 Windows 传统低效的文件打开/保存对话框提供了便捷、人性化的文件（夹）定位方式，同时改善了常见文件管理器中文件夹切换的效率。
@@ -154,7 +152,7 @@ TAL3U894S2BWA9629EFCXYYYG3S65WEQ
 绿色和谐版版下载地址：[Typora 1.5.9(修改版)](https://www.ghxi.com/typora.html)
 
 * [ppt插件工具islide](https://www.islide.cc/)
-> iSlide 是一款基于 PPT 的插件工具，包含 38 个设计辅助功能，8 大在线资源库，超 30 万专业 PPT 模板/素材。
+> iSlide是一款基于PPT的插件工具，包含38个设计辅助功能，8大在线资源库，超30万专业PPT模板/素材。
 
 ![](https://www.islide.cc/dist/static/summary_header.101403cf.png)
 
