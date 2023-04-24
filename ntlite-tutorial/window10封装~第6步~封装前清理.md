@@ -8,7 +8,15 @@
 ## 更新MicroSoft Store、计算器等自带应用
 进入MicroSoft Store，直接更新MicroSoft Store、计算器。
 
+## 安装Chrome插件
+打开Chrome并跳转到https://chrome.google.com/webstore/category/extensions?hl=zh-CN，分别搜索Simple Allow Copy 0.8.3、uBlock Origin、Tampermonkey并安装。
+![Chrome插件安装.png](https://s2.loli.net/2023/04/24/ockpz5Uvhi9quG6.png)
+
 ## 封装前全面清理
+### 清理部分
+打开[小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html)，按照下图步骤继续用辅助工具进行一键清理。
+![](https://img.itsk.com/itkdx/attachment/forum/202001/31/132659jgz6j9g1noxvcee9.jpg)
+
 ### 使用Dism++清理
 按照下图步骤继续用Dism++进行清理。
 ![](https://img.itsk.com/itkdx/attachment/forum/202001/31/142950j3fjjz4pjpozjlu5.jpg)
