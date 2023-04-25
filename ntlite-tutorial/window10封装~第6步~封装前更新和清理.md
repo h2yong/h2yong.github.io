@@ -1,7 +1,4 @@
 # 封装前清理
-## 运行[辅助工具](https://www.yrxitong.com/h-nd-100.html)将所有桌面快捷方式图标转移到公共桌面
-![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095540tevb8kdm4pdbhk9t.jpg)
-
 ## vmware添加网络
 
 ## 更新MicroSoft Store、计算器等自带应用
@@ -10,6 +7,9 @@
 ## 安装Chrome插件
 打开Chrome并跳转到https://chrome.google.com/webstore/category/extensions?hl=zh-CN，分别搜索Simple Allow Copy 0.8.3、uBlock Origin、Tampermonkey并安装。
 ![Chrome插件安装.png](https://s2.loli.net/2023/04/24/ockpz5Uvhi9quG6.png)
+
+## 安装vscode中文/markdown-all-one/python/Black Formatter等插件
+打开vscode进入插件管理页面，搜索中文/markdown-all-one/python/Black Formatter并安装对应的插件。
 
 ## 封装前全面清理
 ### 清理部分

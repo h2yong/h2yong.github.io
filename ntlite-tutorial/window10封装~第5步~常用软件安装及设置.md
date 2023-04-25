@@ -35,5 +35,8 @@
 将专业工具文件夹拷贝到开始菜单的程序目录下，即C:\ProgramData\Microsoft\Windows\Start Menu\Programs目录下
 ![](https://img.itsk.com/itkdx/attachment/forum/202006/16/000416jtgcn1guxt8z11nr.png)
 
+## 运行[辅助工具](https://www.yrxitong.com/h-nd-100.html)将所有桌面快捷方式图标转移到公共桌面
+![](https://img.itsk.com/itkdx/attachment/forum/202202/14/095540tevb8kdm4pdbhk9t.jpg)
+
 ## 拍摄快照备份
 ![](https://img.itsk.com/itkdx/attachment/forum/202201/25/161712n3lio3idiood99rl.jpg)
