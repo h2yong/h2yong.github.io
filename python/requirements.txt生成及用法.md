@@ -29,7 +29,6 @@ pip freeze > requirements.txt
    ```
 
 ## 利用requirements.txt安装依赖包
-
 ### 在线安装依赖包
 
 ```shell
@@ -37,7 +36,6 @@ pip install -r requirements.txt
 ```
 
 ### 离线安装依赖包
-
 1. 打包已安装的包
 
    ```shell

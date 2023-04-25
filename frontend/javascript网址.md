@@ -81,14 +81,16 @@
 - https://astro.build/
 
 ## 静态 doc 网站
-- <https://github.com/webpack/webpack.js.org.git>
-- <https://github.com/iview/weapp-doc.git>
+- https://github.com/webpack/webpack.js.org.git
+- https://github.com/iview/weapp-doc.git
+- https://github.com/k55k32/jooq.diamondfsd.com
+- https://tsejx.github.io/devops-guidebook/server/nginx
 
 ## 胶片
-<https://github.com/hakimel/reveal.js>
+- https://github.com/hakimel/reveal.js
 
 ## 富文本
-- <https://github.com/tinymce/>
+- https://github.com/tinymce/
 
 ## 字体图标
 - <https://icomoon.io>
@@ -126,14 +128,14 @@
 - <https://fineuploader.com/>
 
 ## markdown 解析器
-- <https://github.com/markedjs/marked>
-- <https://github.com/showdownjs/showdown>
+- https://github.com/markedjs/marked
+- https://github.com/showdownjs/showdown
 
 ## js 前端框架
-<https://semantic-ui.com/>
+https://semantic-ui.com/
 
 ## css 前端框架
-<https://bulma.io/>
+https://bulma.io/
 
 ## vue 前端框架
 - <http://element-cn.eleme.io/#/>

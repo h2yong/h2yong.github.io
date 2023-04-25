@@ -1,4 +1,6 @@
 
+jooq系列教程：https://jooq.diamondfsd.com/learn/section-1-how-to-start.html
+
 Jooq的优点
 1. DSL(Domain Specific Language )风格，代码够简单和清晰。遇到不会写的sql可以充分利用IDEA代码提示功能轻松完成。
 2. 保留了传统ORM 的优点，简单操作性，安全性，类型安全等。不需要复杂的配置，并且可以利用Java 8 Stream API 做更加复杂的数据转换。

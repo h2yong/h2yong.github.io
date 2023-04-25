@@ -1,17 +1,18 @@
 # spring boot快速开发框架
 
-| 开发框架                                                     | 基础框架      | Github/Gitcee Star |
-| ------------------------------------------------------------ | ------------- | ------------------ |
-|                                                              | springboot2.0 | 25.1K              |
-| https://www.jhipster.tech/                                   | springboot2.0 | 18.9K              |
-| https://www.stylefeng.cn/<br/>https://gitee.com/log4j/pig    | springboot2.0 | 13.2K              |
-| https://gitee.com/y_project/RuoYi<br/>https://gitee.com/y_project/RuoYi-Cloud<br/>https://gitee.com/y_project/RuoYi-Vue | springboot2.0 | 24.4K              |
-| http://www.jeecg.com/<br>https://gitee.com/thinkgem/jeesite4<br/>https://gitee.com/thinkgem/jeesite4-cloud <br/>https://gitee.com/thinkgem/jeesite4-jflow | springboot2.0 | 12.7               |
-| https://bladex.vip/#/doc/introduction                        | springboot2.0 | 13.4K              |
-| https://gitee.com/shuzheng/zheng                             |               |                    |
-| https://gitee.com/explore/oauth-dev                          |               |                    |
-| https://gitee.com/geek_qi/cloud-platform                     |               |                    |
-| https://gitee.com/596392912/mica                             |               |                    |
+| java开源快速开发框架                                                                                                                                              | 基础框架                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| https://www.jhipster.tech/                                                                                                                                | springboot2.0                    |
+| https://www.stylefeng.cn/<br/>https://gitee.com/log4j/pig                                                                                                 | springboot2.0                    |
+| https://gitee.com/y_project/RuoYi<br/>https://gitee.com/y_project/RuoYi-Cloud<br/>https://gitee.com/y_project/RuoYi-Vue                                   | springboot2.0                    |
+| http://www.jeecg.com/<br>https://gitee.com/thinkgem/jeesite4<br/>https://gitee.com/thinkgem/jeesite4-cloud <br/>https://gitee.com/thinkgem/jeesite4-jflow | 基于代码生成器的JAVA快速开发平台 |
+| https://bladex.vip/#/doc/introduction                                                                                                                     | springboot2.0                    |
+| https://gitee.com/shuzheng/zheng                                                                                                                          |                                  |
+| https://gitee.com/explore/oauth-dev                                                                                                                       |                                  |
+| https://gitee.com/geek_qi/cloud-platform                                                                                                                  |                                  |
+| https://gitee.com/596392912/mica                                                                                                                          |                                  |
+| https://github.com/elunez/eladmin                                                                                                                         | 前后端分离的后台管理系统         |
+| https://github.com/hs-web/hsweb-framework                                                                                                                 | 企业后台管理系统的基础项目       |
 
 ## [RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)学习
 

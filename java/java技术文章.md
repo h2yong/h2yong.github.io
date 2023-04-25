@@ -8,7 +8,6 @@
 -->
 
 # java基础技术
-
 - [硬核系列-深入剖析字节码增强](https://xie.infoq.cn/article/d367c19896e4cef6fbb661cf7?utm_source=rss&utm_medium=article)
 - [深入理解JVM垃圾回收算法-复制算法](https://xie.infoq.cn/article/812cdc6d9c79b456522a48664)
 - [深入理解JVM类加载机制](https://juejin.im/post/6844903806468112398)
@@ -51,7 +50,6 @@
 - [Http 持久连接与 HttpClient 连接池，有哪些不为人知的关系？]()
 
 # Java编程框架
-
 - [统一异常处理介绍及实战](https://mp.weixin.qq.com/s/K4xb-3apatkABx6PcZj0hw)
 - [Spring Cache，从入门到真香](https://juejin.im/post/6882196005731696654)
 - [对微服务架构设计实践中若干问题的探讨](https://developer.51cto.com/art/202009/626898.htm)
@@ -71,7 +69,6 @@
 - [美团外卖离线数仓建设实践](https://www.infoq.cn/article/ih9zRTgNvye9WO7CmVJV)
 
 # 中间件
-
 - [Redis为什么变慢了？常见延迟问题定位与分析](https://cloud.tencent.com/developer/article/1692514)
 - [几种缓存更新的设计方法，值得一看](https://segmentfault.com/a/1190000037509415)
 - [还在用Guava Cache？它才是Java本地缓存之王](https://cloud.tencent.com/developer/article/1697228)
@@ -92,7 +89,6 @@
 - [Clickhouse替代ES后，日志查询速度提升了38倍！](https://mp.weixin.qq.com/s/fzgrs8_dOpv2bB4oQHli5A)
 
 # 分布式
-
 - [不懂 ZooKeeper？没关系，这一篇给你讲的明明白白](https://xie.infoq.cn/article/d7cb531aa198e1e8a6750273f)
 - [网易云音乐全链路跟踪系统实践](https://cloud.tencent.com/developer/news/700888)
 - [20 张图搞懂「分布式事务」](https://juejin.im/post/6874788280378851335)
@@ -106,7 +102,6 @@
 - [IM消息ID技术专题(六)：深度解密滴滴的高性能ID生成器(Tinyid)](https://cloud.tencent.com/developer/article/1694575)
 
 # 软件工程
-
 - [字节跳动全链路压测(Rhino)的实践](https://www.infoq.cn/article/O9i6BfecBm3TI5htfM1r)
 - [来吧，用设计模式来干掉 if-else](https://cloud.tencent.com/developer/article/1658355)
 - [Java 后端开发常用的 10 种第三方服务](https://www.cnblogs.com/qing-gee/p/13651693.html)
@@ -121,17 +116,14 @@
 - [日调1000亿，腾讯微服务平台的架构演进](https://cloud.tencent.com/developer/article/1701134)
 
 # 过载设计
-
 - [性能百万/s：腾讯轻量级全局流控方案详解](https://cloud.tencent.com/developer/article/1359415)
 - [Sentinel 是怎样拦截异常流量的](https://my.oschina.net/u/4585957/blog/4619544)
 
 # AI技术篇
-
 - [挖掘海量数据精华价值：Milvus助力企业打造前沿AI搜索](https://m.toutiao.com/is/JPWq9PV/)
 - [【深度知识】25种区块链共识算法全面详解](https://www.jianshu.com/p/328cd989a4c8)
 
 # 工具篇
-
 - [Intellij IDEA 实用插件推荐](https://juejin.im/post/6844904082721734663)
 - [提升开发效率N倍的20+命令行神器，赶紧收藏了](https://developer.51cto.com/art/202009/626015.htm)
 - [制品仓](https://jfrog.com/)
