@@ -77,8 +77,8 @@
 - [H2](http://h2database.com/html/main.html)：小型 SQL 数据库，以内存操作著称。
 
 # 数据库更新工具
-- <https://www.liquibase.org/>，文档：<https://www.liquibase.org/documentation/changes/create_table.html>
-- <https://flywaydb.org/>
+- https://www.liquibase.org/，文档：https://www.liquibase.org/documentation/changes/create_table.html
+- https://flywaydb.org/
 
 # 数据库连接池
 - [druid](https://github.com/alibaba/druid)
@@ -86,52 +86,52 @@
 
 # ORM 框架
 - [mybatis](http://www.mybatis.org)
-- mybatis 插件：<http://mp.baomidou.com/>
-- mybatis 插件：<http://www.mybatis.tk/>
+- mybatis 插件：http://mp.baomidou.com/
+- mybatis 插件：http://www.mybatis.tk/
 - [jooq](https://www.jooq.org/)
 
 # 数据库读写分离框架
 - [shardingjdbc](https://shardingsphere.apache.org/document/current/cn/overview/)
 
 # java 定时任务开源框架
-<http://www.quartz-scheduler.org/>
+http://www.quartz-scheduler.org/
 
 # 分布式定时任务开源框架
-- <http://elasticjob.io/docs/elastic-job-lite/00-overview>
-- <https://github.com/ltsopensource/light-task-scheduler>
-- <http://code.taobao.org/p/tbschedule/wiki/index>
-- <https://github.com/uncodecn/uncode-schedule>
+- http://elasticjob.io/docs/elastic-job-lite/00-overview
+- https://github.com/ltsopensource/light-task-scheduler
+- http://code.taobao.org/p/tbschedule/wiki/index
+- https://github.com/uncodecn/uncode-schedule
 
 # 内嵌式 NoSQL
-- <https://github.com/mwarc/embedded-memcached-spring>
-- <https://github.com/kstyrc/embedded-redis>
+- https://github.com/mwarc/embedded-memcached-spring
+- https://github.com/kstyrc/embedded-redis
 
 # 分布式缓存
 - [Hazelcast](https://hazelcast.org/)：Highly scalable in-memory datagrid with a free open-source version.
 
 # mock-server 框架
-- <http://www.mock-server.com/>
-- <https://github.com/dreamhead/moco>
+- http://www.mock-server.com/
+- https://github.com/dreamhead/moco
 
 # 微服务脚手架
-- [jhipster](http://www.jhipster.tech/)，中文指南：<https://www.jhipster-cn.tech>，开发笔记：<https://jh.jiankangsn.com/>
+- [jhipster](http://www.jhipster.tech/)，中文指南：https://www.jhipster-cn.tech，开发笔记：https://jh.jiankangsn.com/
 - [阿里出品 nacos](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 - [阿里出品 sofa](https://www.sofastack.tech/)
-- <https://github.com/thinkgem/jeesite>
-- <http://git.oschina.net/jeecg/jeecg>
-- <http://git.oschina.net/naan1993/guns>
-- <http://git.oschina.net/ixion/NUTZ-ONEKEY>
-- <http://git.oschina.net/babaio/renren-security>
-- <http://git.oschina.net/babaio/renren-security-boot>
-- <https://www.oschina.net/p/apollo-ctrip>
-- <https://gitee.com/iBase4J/iBase4J>
+- https://github.com/thinkgem/jeesite
+- http://git.oschina.net/jeecg/jeecg
+- http://git.oschina.net/naan1993/guns
+- http://git.oschina.net/ixion/NUTZ-ONEKEY
+- http://git.oschina.net/babaio/renren-security
+- http://git.oschina.net/babaio/renren-security-boot
+- https://www.oschina.net/p/apollo-ctrip
+- https://gitee.com/iBase4J/iBase4J
 
 # jsp 布局框架
-<https://github.com/sitemesh/sitemesh3>
+https://github.com/sitemesh/sitemesh3
 
 # java 工具包
-- <https://gitee.com/loolly/hutool>
-- <http://feilong-core.mydoc.io>
+- https://gitee.com/loolly/hutool
+- http://feilong-core.mydoc.io
 
 # json 工具包
 - [Jsonpath](https://github.com/json-path/JsonPath)
@@ -139,16 +139,16 @@
 - [gson](https://github.com/google/gson)
 
 # java 内嵌 nodejs
-- <https://github.com/nodyn/nodyn>
-- <https://github.com/apigee/trireme>
-- <https://github.com/eclipsesource/J2V8>
+- https://github.com/nodyn/nodyn
+- https://github.com/apigee/trireme
+- https://github.com/eclipsesource/J2V8
 
 # 全栈虚拟机
-<https://www.graalvm.org/>
+https://www.graalvm.org/
 
 # 高可用工具
-- <https://github.com/resilience4j/resilience4j>
-- <https://github.com/alibaba/Sentinel>
+- https://github.com/resilience4j/resilience4j
+- https://github.com/alibaba/Sentinel
 
 # java 优秀项目
 - [jenkins-client](https://github.com/RisingOak/jenkins-client.git)
@@ -164,18 +164,18 @@
 - [Java 通过 URLClassLoader 让程序支持插件扩展](http://xxgblog.com/2013/07/04/java-urlclassloader-plugin/)
 
 # 单元测试文章
-- <https://skyao.gitbooks.io/learning-java-unit-test/content/assertj/>
-- <https://skyao.gitbooks.io/learning-java-unit-test/content/powermock/>
-- <https://skyao.gitbooks.io/learning-java-unit-test/content/mockito/>
-- <https://github.com/kkapelon/java-testing-with-spock>
+- https://skyao.gitbooks.io/learning-java-unit-test/content/assertj/
+- https://skyao.gitbooks.io/learning-java-unit-test/content/powermock/
+- https://skyao.gitbooks.io/learning-java-unit-test/content/mockito/
+- https://github.com/kkapelon/java-testing-with-spock
 
 # 优秀 java 相关资料
-- <http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html>
-- <http://git.oschina.net/free/Mybatis_Utils/blob/master/MybatisGeneator/MybatisGeneator.md>
+- http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html
+- http://git.oschina.net/free/Mybatis_Utils/blob/master/MybatisGeneator/MybatisGeneator.md
 
 # awesome-java
 
-<https://github.com/akullpp/awesome-java>
+https://github.com/akullpp/awesome-java
 
 # 页面性能测试工具
 
@@ -191,7 +191,7 @@
 3. Page Speed（google）
 
 # API 测试工具
-- <https://www.runscope.com/docs/api-testing/scripts/post-response/>
+- https://www.runscope.com/docs/api-testing/scripts/post-response/
 - [面向多端的自动化测试 Macaca](https://macacajs.github.io/zh/)
 
 # 开源 git web 工具
@@ -205,7 +205,7 @@
 | [gerrit](https://www.gerritcodereview.com/)   | java     |
 
 # 云服务
-- <http://rancher.com/catalog-items/>
+- http://rancher.com/catalog-items/
 - [Heroku](https://www.heroku.com/)
 - [appfog](https://www.ctl.io/appfog/)
 - [cloudbees](https://www.cloudbees.com/)
@@ -215,19 +215,19 @@
 - [Engine Yard Cloud](http://www.engineyard.com/)
 
 # 接口测试文章收集
-- <https://www.kancloud.cn/digest/dqappinterface/120089>
+- https://www.kancloud.cn/digest/dqappinterface/120089
 - [有赞分层自动化测试实践](http://tech.youzan.com/layers_test_automation_practice/)
 - [接口测试-分层测试重构之接口层](https://testerhome.com/topics/4284)
 - [PhoenixFramework 自动化测试平台](http://www.cewan.la/)
 - [自动化测试工具 Fitnesse+RestFixture](https://testerhome.com/topics/1277)
 
 # 移动跨平台开发
-- <https://github.com/NervJS/taro>
-- <https://github.com/Meituan-Dianping/mpvue>
-- <https://uniapp.dcloud.io/>
+- https://github.com/NervJS/taro
+- https://github.com/Meituan-Dianping/mpvue
+- https://uniapp.dcloud.io/
 
 # PC 跨平台开发
-<https://electronjs.org/>
+https://electronjs.org/
 
 # 开发工具使用教程
 - [猴子都能懂的 GIT 入门](https://backlog.com/git-tutorial/cn/)
@@ -241,10 +241,10 @@
 - [w3cschool](https://www.w3cschool.cn/)
 
 # 服务编排
-- <https://github.com/Netflix/conductor>
+- https://github.com/Netflix/conductor
 
 # 基础设施即代码
-- <https://www.terraform.io/docs/cli-index.html>
+- https://www.terraform.io/docs/cli-index.html
 
 # 定时任务
 - https://github.com/vipshop/Saturn
