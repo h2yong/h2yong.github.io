@@ -119,15 +119,6 @@
 - <https://segmentfault.com/a/1190000008787672>  
 - <https://github.com/miaowwwww/webpack2-learn>
 
-# 跨平台开发框架
-## 移动跨平台开发
-- <https://github.com/NervJS/taro>
-- <https://github.com/Meituan-Dianping/mpvue>
-- <https://uniapp.dcloud.io/>
-
-## PC跨平台开发
-- https://electronjs.org/
-
 # 开发工具
 - [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
 - [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
