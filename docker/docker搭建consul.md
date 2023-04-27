@@ -1,7 +1,5 @@
 # docker搭建consul
-
 ## 拉取镜像
-
 ```shell
 docker pull consul:1.9.10
 ```
@@ -18,6 +16,5 @@ docker run -d -p 8500:8500 -v /data/consul:/consul/data -e CONSUL_BIND_INTERFACE
 
 
 ## 访问
-
 Http://localhost:8500
 

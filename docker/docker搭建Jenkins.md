@@ -5,7 +5,6 @@ docker pull jenkins/jenkins:2.303.1
 ```
 
 ## 运行容器
-
 ```shell
 docker run -d --name jenkins -p 8081:8080 -p 50000:50000 -v /data/jenkins_home:/var/jenkins_home --env JAVA_OPTS="-Duser.timezone=GMT+08" jenkins/jenkins:2.303.1
 ```
