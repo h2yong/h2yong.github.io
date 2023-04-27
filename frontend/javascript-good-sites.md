@@ -1,32 +1,31 @@
 # javascript收集
-# 页面性能测试工具
+## 页面性能测试工具
 **基于网页分析工具：**
-1.  <https://www.webpagetest.org/>
-2.  <https://www.pingdom.com/>
-3.  <https://gtmetrix.com/>
-4.  [showslow](https://github.com/sergeychernyshev/showslow/wiki)
+1. <https://www.webpagetest.org/>
+2. <https://www.pingdom.com/>
+3. <https://gtmetrix.com/>
+4. [showslow](https://github.com/sergeychernyshev/showslow/wiki)
 
 **基于浏览器分析工具：**
-1.  Chrome自带工具F12
-2.  Firefox插件：YSlow（Yahoo工具）
-3.  Page Speed（google）
+1. Chrome自带工具F12
+2. Firefox插件：YSlow（Yahoo工具）
+3. Page Speed（google）
 
-# API测试工具
--   <https://www.runscope.com/docs/api-testing/scripts/post-response/>
--   [面向多端的自动化测试Macaca](https://macacajs.github.io/zh/)
+## API测试工具
+- https://www.runscope.com/docs/api-testing/scripts/post-response/
+- [面向多端的自动化测试Macaca](https://macacajs.github.io/zh/)
 
-# 主题网站
-## 破解主题
+## 主题网站
+### 破解主题
 - http://www.themelock.com/
 
-## 收费主题
+### 收费主题
 - https://wrapbootstrap.com/
 - http://themeforest.net/
 
-## 免费主题
+### 免费主题
 - http://startangular.com/
 
-# 前端资源
 ## 代码编辑器
 - https://github.com/Microsoft/monaco-editor
 - https://github.com/codemirror/CodeMirror
@@ -85,6 +84,10 @@
 - [Sortable](https://github.com/SortableJS/Sortable)
   > Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 
+## markdown解析器
+- [marked](https://github.com/markedjs/marked)
+- [showdown](https://github.com/showdownjs/showdown)
+
 ## markdown编辑器
 | 链接                                          | stars |
 | --------------------------------------------- | ----- |
@@ -101,10 +104,6 @@
 - <http://www.dropzonejs.com/>
 - <https://fineuploader.com/>
 
-## markdown解析器
-- [marked](https://github.com/markedjs/marked)
-- [showdown](https://github.com/showdownjs/showdown)
-
 ## 行内编辑
 - https://vitalets.github.io/x-editable
 
@@ -118,10 +117,3 @@
 - <https://github.com/fenivana/webpack-in-action>  
 - <https://segmentfault.com/a/1190000008787672>  
 - <https://github.com/miaowwwww/webpack2-learn>
-
-# 开发工具
-- [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
-- [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
-
-# 前端学习网址
-[印记中文](https://docschina.org/)
