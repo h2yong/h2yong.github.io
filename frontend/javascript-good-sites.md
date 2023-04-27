@@ -125,7 +125,3 @@
 
 # 前端学习网址
 [印记中文](https://docschina.org/)
-
-# devops工具
-- [jenkins](https://jenkins.io/zh/)
-- [TFS](https://visualstudio.microsoft.com/zh-hans/tfs/)
