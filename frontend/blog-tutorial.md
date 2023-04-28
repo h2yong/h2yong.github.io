@@ -8,6 +8,7 @@ https://github.com/zhhlwd/vuepress-theme-indigo-material
 > Hexo 是一个快速、简洁且高效的博客框架。Hexo支持Github Flavored Markdown的所有功能, 甚至可以整合Octopress的大多数插件，并自己也拥有强大的插件系统。    
 ### 主题
 - https://theme-next.iissnan.com/
+- https://github.com/Ailln/awesome-hexo-theme
 
 ### 成品
 - https://github.com/k55k32/jooq.diamondfsd.com
@@ -24,9 +25,16 @@ http://theme-next.simpleyyt.com/
 
 ## [docsify](https://docsify.js.org/#/zh-cn/)
 > docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 `.html` 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 `index.html` 就可以开始编写文档并直接[部署在 GitHub Pages](https://docsify.js.org/#/zh-cn/deploy)。
+> Docsify makes it easy to create a documentation website, but is not a static-site generator and is not SEO friendly.
 
 ## [dumi](https://github.com/umijs/dumi)
 > 为组件研发而生的静态站点框架。
 
 ### 成品
 - https://tsejx.github.io/devops-guidebook/server/nginx
+
+## [docusaurus](https://github.com/facebook/docusaurus)
+
+## [storybook](https://github.com/storybookjs/storybook)
+
+## [docz](https://github.com/doczjs/docz)
