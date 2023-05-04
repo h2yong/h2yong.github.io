@@ -1,3 +1,0 @@
--   [javascript优秀网址收集](javascript/javascript-good-sites.md)
--   [动态加载js文件的正确姿势](javascript/how-to-load-dynamic-script.md)
--   [基于JavaScript的代码编辑器的比较和选型](javascript/code-editor-compare.md)

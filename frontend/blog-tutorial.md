@@ -1,4 +1,4 @@
-# 博客技术
+# 静态站点框架
 ## [vuepress](https://vuepress.vuejs.org/zh/)
 > Vue 驱动的静态网站生成器
 ### 主题

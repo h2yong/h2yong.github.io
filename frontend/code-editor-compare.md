@@ -74,53 +74,49 @@ mode最简单的定义了一个词法解析器，解析编辑器的内容，更�
 
 ## 功能表
 
-| 功能         | 说明                                  |
-| ---------- | ----------------------------------- |
-| 语言         | 110+ mode                           |
+| 功能             | 说明                                |
+| ---------------- | ----------------------------------- |
+| 语言             | 110+ mode                           |
 | 可组合的mode系统 | option: parserfile(HTML mixed mode) |
-| 自动完成       | addon/hint，支持上下文感知                  |
-| 代码折叠       | addon/fold                          |
-| 快捷键配置      | option: extraKeys                   |
-| 编辑器绑定      | option: keyMap                      |
-| 搜索与替换      | addon/search                        |
-| 自动补全       | addon/edit                          |
-| 多视图        | editor.swapDoc()                    |
-| 代码检查       | 引入JSLINT+addon/lint                 |
+| 自动完成         | addon/hint，支持上下文感知          |
+| 代码折叠         | addon/fold                          |
+| 快捷键配置       | option: extraKeys                   |
+| 编辑器绑定       | option: keyMap                      |
+| 搜索与替换       | addon/search                        |
+| 自动补全         | addon/edit                          |
+| 多视图           | editor.swapDoc()                    |
+| 代码检查         | 引入JSLINT+addon/lint               |
 | 字体样式混入     | css class                           |
-| 多主题        | theme                               |
+| 多主题           | theme                               |
 | 自动调整宽高     | option: viewportMargin              |
-| 行内/块级      | editor.addLineWidget                |
-| 断点         | option: gutter                      |
+| 行内/块级        | editor.addLineWidget                |
+| 断点             | option: gutter                      |
 | 标记文本范围     | editor.markText()                   |
-| 文本方向       | option: direction                   |
+| 文本方向         | option: direction                   |
 | 丰富的API和插件  | ...                                 |
 
 codemirror通过插件实现了一些特别的功能，例如：
 
-| 功能                                    | 说明                                          |
-| ------------------------------------- | ------------------------------------------- |
-| 添加widget                              | <http://codemirror.net/demo/widget.html>    |
-| 视图与代码的分离 Multiple Buffer & Split View | <http://codemirror.net/demo/buffers.html>   |
-| 代码的多路复用 Multiplexing Parser           | <http://codemirror.net/demo/multiplex.html> |
-| 基于Tern(高级javascript解析引擎)的高级智能功能       | <http://codemirror.net/demo/tern.html>      |
+| 功能                                           | 说明                                        |
+| ---------------------------------------------- | ------------------------------------------- |
+| 添加widget                                     | <http://codemirror.net/demo/widget.html>    |
+| 视图与代码的分离 Multiple Buffer & Split View  | <http://codemirror.net/demo/buffers.html>   |
+| 代码的多路复用 Multiplexing Parser             | <http://codemirror.net/demo/multiplex.html> |
+| 基于Tern(高级javascript解析引擎)的高级智能功能 | <http://codemirror.net/demo/tern.html>      |
 
 ## 评价
-
 **优点：**
-
 1.  功能总体完备
 2.  扩展性高
 3.  官网文档介绍详细，demo覆盖较全，插件也很多
 4.  有专门的社区，管理维护较为活跃
 
 **缺点：**
-
 1.  功能需要配置和引入文件才能实现，功能多的时候需要引入的文件过多，不好管理。
 2.  部分外观和交互基础显示不好，要通过自定义比较麻烦
 3.  进行扩展需要一定的学习
 
 ## 附录
-
 -   官网：<http://codemirror.net/>
 -   github: <https://github.com/codemirror/CodeMirror/>
 -   外部插件: <https://github.com/codemirror/CodeMirror/wiki/CodeMirror-addons>
@@ -130,7 +126,6 @@ codemirror通过插件实现了一些特别的功能，例如：
 -   用户(Adobe Brackets,Chrome DevTools,Firefox Developer Tools): <http://codemirror.net/doc/realworld.html>
 
 # ACE
-
 Ace是一个用JavaScript编写的嵌入式代码编辑器。它与Sublime，Vim和TextMate等原生编辑器的功能和性能相匹配。它可以很容易地嵌入到任何网页和JavaScript应用程序中。作为与codemirror同类的现代编辑器，ACE同样拥有mode进行语法解析，实现编辑器的智能感知型功能。
 ![](./code-editor-compare.img/ace-demo.png)  
 Ace也实现了编辑器和代码文档的分离，Session管理代码的编辑状态，Document为代码容器，TextMode提供语言解析，为代码高亮和智能编辑提供支持，Editor为编辑器的核心，它处理代码的状态，处理IO事件，渲染编辑器组件。
@@ -159,19 +154,15 @@ Ace只需引入一个文件，跟codemirror的核心包差不多大小(400k左�
 Ace主要分为Editor、Session、Document、Mode、VirtualRenderer五个模块，针对五个模块都有对应的API进行操作。通常用户使用较多的是Session类的API，涉及对编辑状态的获取和修改，如光标、选择、代码行、代码搜索等类的API方法都较为丰富。
 
 ## 自定义Mode
-
 Ace提供了非常详细完整的文档描述如何自定义一个语法高亮的模块扩展，其中包括编写mode(语法解析)、高亮规则、代码流的状态机、mode继承等，并提供了一个可在线预览的编辑环境。
 
 ## 评价
-
 **优点：**
-
 1.  功能完备且集成度高
 2.  支持的语言丰富
 3.  支持在线编写mode和配置demo
 
 **缺点：**
-
 1.  扩展支持能力较为一般
 2.  官方demo不支持源码预览
 
@@ -238,7 +229,6 @@ monaco有一个专门的库Monarch定义语法高亮，包括language(语言定�
 ![](./code-editor-compare.img/monaco-Syntax.png)
 
 ## 评价
-
 **优点：**
 
 1.  集成vscode的编辑功能，使用较为简单
@@ -246,53 +236,51 @@ monaco有一个专门的库Monarch定义语法高亮，包括language(语言定�
 3.  原生支持代码diff，typescript
 
 **缺点：**
-
 1.  支持语言种类和主题较少
 2.  扩展性较差
 3.  独立的引入方式不适合打包
 4.  不支持移动浏览器或移动Web框架
 
 # 总结
-
 功能点的对比
 
-| 功能点            | ACE              | CodeMirror                        | Monaco         |
-| -------------- | ---------------- | --------------------------------- | -------------- |
-| 代码着色/高亮        | √                | √                                 | √              |
-| 主题             | √ (内置20+/可扩展)    | √ (内置40+)                         | 2种，即vs/vs dark |
-| 语言支持           | √ (110+/可扩展)     | √ (130+)                          | √ (30+)        |
-| 代码提示/自动补全      | √ (引入tool文件+配置)  | √ 引入hint相关文件+配置快捷键命令              | √ 默认开启         |
-| 代码完成/循环结构      | √                | √                                 | √              |
-| 代码段            | √                | √                                 | √              |
-| 搜索和替换          | √                | √                                 | √              |
-| 多光标操作          | √                | √                                 | √              |
-| 自动缩进           | √                | √                                 | √              |
-| 代码折行           | √                | √                                 | √              |
-| undo/redo      | √                | √                                 | √              |
-| 快捷键            | √                | √                                 | √              |
-| 代码检查lint       | √                | √                                 |                |
-| 字符集支持          | √                | √                                 |                |
-| 行数显示           | √                | √                                 | √              |
-| 代码对比diff       |                  | √                                 | √              |
-| mixed mode混合模式 |                  | √                                 |                |
-| keymap键盘映射     | √  vim and Emacs | √ (Vim, Emacs ,and Sublime Text ) |                |
-| 多视图            |                  | √                                 |                |
-| resize自适应      | √                | √                                 |                |
-| 扩展小部件          |                  | √                                 |                |
-| 文本标记扩展         |                  | √                                 |                |
-| 命令行扩展          | √                |                                   |                |
-| 鼠标拖放扩展         | √                |                                   |                |
+| 功能点             | ACE                   | CodeMirror                        | Monaco            |
+| ------------------ | --------------------- | --------------------------------- | ----------------- |
+| 代码着色/高亮      | √                     | √                                 | √                 |
+| 主题               | √ (内置20+/可扩展)    | √ (内置40+)                       | 2种，即vs/vs dark |
+| 语言支持           | √ (110+/可扩展)       | √ (130+)                          | √ (30+)           |
+| 代码提示/自动补全  | √ (引入tool文件+配置) | √ 引入hint相关文件+配置快捷键命令 | √ 默认开启        |
+| 代码完成/循环结构  | √                     | √                                 | √                 |
+| 代码段             | √                     | √                                 | √                 |
+| 搜索和替换         | √                     | √                                 | √                 |
+| 多光标操作         | √                     | √                                 | √                 |
+| 自动缩进           | √                     | √                                 | √                 |
+| 代码折行           | √                     | √                                 | √                 |
+| undo/redo          | √                     | √                                 | √                 |
+| 快捷键             | √                     | √                                 | √                 |
+| 代码检查lint       | √                     | √                                 |                   |
+| 字符集支持         | √                     | √                                 |                   |
+| 行数显示           | √                     | √                                 | √                 |
+| 代码对比diff       |                       | √                                 | √                 |
+| mixed mode混合模式 |                       | √                                 |                   |
+| keymap键盘映射     | √  vim and Emacs      | √ (Vim, Emacs ,and Sublime Text ) |                   |
+| 多视图             |                       | √                                 |                   |
+| resize自适应       | √                     | √                                 |                   |
+| 扩展小部件         |                       | √                                 |                   |
+| 文本标记扩展       |                       | √                                 |                   |
+| 命令行扩展         | √                     |                                   |                   |
+| 鼠标拖放扩展       | √                     |                                   |                   |
 
 功能的整体对比来看，CodeMirror的功能比较多，但三者相差不大，基本功能都具备，只是某些特殊功能codemirror可以通过其丰富的扩展实现。
 综合对比：
 
 ![](./code-editor-compare.img/codemirror-ace-monaco.png)
 
-| 特性    | CodeMirror            | Ace          | monaco               |
-| ----- | --------------------- | ------------ | -------------------- |
-| 功能    | 完备                    | 完备           | 完备                   |
-| 扩展性   | 插件、主题、mode扩展          | 插件、主题、mode扩展 | mode扩展               |
-| 外观/交互 | 支持多款主题和部件<br>基础UI较为简单 | 支持多款主题       | vscode风格<br>风格统一交互友好 |
+| 特性      | CodeMirror                           | Ace                  | monaco                         |
+| --------- | ------------------------------------ | -------------------- | ------------------------------ |
+| 功能      | 完备                                 | 完备                 | 完备                           |
+| 扩展性    | 插件、主题、mode扩展                 | 插件、主题、mode扩展 | mode扩展                       |
+| 外观/交互 | 支持多款主题和部件<br>基础UI较为简单 | 支持多款主题         | vscode风格<br>风格统一交互友好 |
 
 综合以上对比，可以对三款编辑器做出初步评价，三款功能基本完备，CodeMirror适合支持扩展性要求高的定制型编辑器，但其多文件的引入方式带来一定的管理不方便以及浏览器端的网络性能影响。Ace综合能力突出，适应现代的前端开发能力，基本上手简单，扩展也较为丰富，适合在浏览器端的网页中嵌入。monaco集成度最高，引入文件量巨大，引入方式兼容性不太好，但功能实现完备，不需另外的扩展引入，适合需要实现复杂功能但不进行深度扩展的应用，因其不支持mobile且文件量大，在electron这类的客户端环境使用较为合适。
 
