@@ -10,7 +10,7 @@ https://github.com/zhhlwd/vuepress-theme-indigo-material
 - https://theme-next.iissnan.com/
 - https://github.com/Ailln/awesome-hexo-theme
 
-### 成品
+### 案例
 - https://github.com/k55k32/jooq.diamondfsd.com
 
 ## [jekyll](http://jekyllcn.com/)
@@ -30,11 +30,17 @@ http://theme-next.simpleyyt.com/
 ## [dumi](https://github.com/umijs/dumi)
 > 为组件研发而生的静态站点框架。
 
-### 成品
+### 案例
 - https://tsejx.github.io/devops-guidebook/server/nginx
 
 ## [docusaurus](https://github.com/facebook/docusaurus)
+### 案例
+- https://docusaurus.io/zh-CN/showcase
 
 ## [storybook](https://github.com/storybookjs/storybook)
+> storybook是一套UI组件的开发环境，可以浏览组件库，查看每个组件的不同状态，交互式开发测试组件，目前支持react、vue、angular等前端框架。
+### 案例
+https://storybook.js.org/showcase
 
 ## [docz](https://github.com/doczjs/docz)
+> [docz](https://github.com/doczjs/docz)是一套与[storybook](https://github.com/storybookjs/storybook)相比更简约的组件库文档实现方案，它解决了组件库文档开发最主要的问题（组件列表、组件展示、组件属性列表、组件编辑调试），虽然[storybook](https://github.com/storybookjs/storybook)在社区支持方面更强一些（更多的配置控件，更多的功能）但是 Storybook 在开发成本上来说比[docz](https://github.com/doczjs/docz)方案还是差一些的。
