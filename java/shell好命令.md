@@ -7,10 +7,9 @@
  -->
 
 # shell 好命令
-
 ## 提取两个文件相同的内容
 
-```sh
+```bash
 awk '{if(NR==FNR){a[$1]++};if(NR>FNR){for(i in a){if(i==$1) print $0}}}' a.txt b.txt > tmp.txt
 
 comm -12 a.txt b.txt
@@ -18,7 +17,7 @@ comm -12 a.txt b.txt
 
 ## 查看 tcp 连接数状态的小脚本
 
-```sh
+```bash
 netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
 ```
 
@@ -44,40 +43,34 @@ tcp 连接状态：
 　　 LAST_ACK：等待所有分组死掉  
 
 ## 根据端口号杀死进程
-
-```sh
+```bash
 kill `netstat -nlp | grep :8989 | awk '{print $7}' | awk -F"/" '{ print $1 }'`
 ```
 
 ## 输出超过指定大小的文件
-
-```sh
+```bash
 find ~ -type f -size +500M
 ```
 
 ## 统计某列的数据之和
-
-```sh
+```bash
 awk -F',' 'BEGIN{sum=0}{sum+=$2}END{print sum}' xx.txt
 ```
 
 ## 同时匹配多个字符
-
-```sh
+```bash
 sed -n '/kobe/{/james/p}'
 awk '/kobe/&&/james/{ print $0 }'
 grep -E '(kobe.*james|james.*kobe)'    egrep  '(kobe.*james|james.*kobe)'
 ```
 
 ## 批量修改文件名
-
-```sh
+```bash
 rename -v 's/14/04/' *.txt
 ```
 
 ## 查看磁盘使用率
-
-```sh
+```bash
 $ iostat -d -x 1
 Linux 3.0.101-0.47.55-default (host-10-22-0-88)         05/19/20        _x86_64_
 
@@ -92,11 +85,11 @@ dm-0              0.00     0.00   14.69   63.67   562.54   820.54    17.65     0
 
 ## 查看监听端口被哪个进程占用
 
-```shell
+```bash
 lsof -i:8080
 ```
 
-```shell
+```bash
 $ netstat -pan | grep 3306
 tcp        0      0 :::3306                 :::*                    LISTEN      126421/mysqld
 tcp        0      0 10.22.0.88:3306         10.31.3.166:60102       ESTABLISHED 126421/mysqld
@@ -110,7 +103,7 @@ tcp        0      0 10.22.0.88:3306         10.31.3.166:11894       ESTABLISHED 
 
 ## 查看进程打开哪些文件
 
-```shell
+```bash
 $ lsof -p 126421
 COMMAND    PID  USER   FD   TYPE             DEVICE     SIZE/OFF      NODE NAME
 mysqld  126421 mysql  rtd    DIR              202,2         4096         2 /
@@ -121,7 +114,7 @@ mysqld  126421 mysql  mem    REG              202,2       217016    852806 /var/
 
 ## 查看远程已打开的网络连接
 
-```shell
+```bash
 $ lsof -i @10.31.3.166
 COMMAND    PID  USER   FD   TYPE    DEVICE SIZE/OFF NODE NAME
 mysqld  126421 mysql   49u  IPv6 469590066      0t0  TCP 10.22.0.88:mysql->10.31.3.166:13256 (ESTABLISHED)
@@ -138,7 +131,7 @@ mysqld  126421 mysql  153u  IPv6 469837031      0t0  TCP 10.22.0.88:mysql->10.31
 
 ## 查看占用空间较多的文件或目录
 
-```sh
+```bash
 $ du -s /home/h2yong/logs/* | sort -n 
 4	/home/h2yong/logs/app/olc
 12	/home/h2yong/logs/tomcat
@@ -158,7 +151,7 @@ $ du -d 1 /home/h2yong/logs/* | sort -n
 
 ## 如何查看端口被哪个进程占用
 
-```shell
+```bash
 # 方法一
 lsof -i:端口号
 
